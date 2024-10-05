@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool compare_map(map<char,int>m1,map<char,int>m2){
+    bool compare_map(const map<char,int>&m1,const map<char,int>&m2){
        return m1==m2;
     }
     bool checkInclusion(string s1, string s2) {
@@ -8,13 +8,13 @@ public:
         int end=s2.length();
         if(right>end)return false;
         map<char,int>m1,m2;
-        for(int i=0;i<right;i++)m1[s1[i]]++;
+        for(auto c:s1)m1[c]++;
         for(int i=0;i<right;i++)m2[s2[i]]++;
         if(compare_map(m1,m2))return true;
         for(int i=right;i<end;i++){
             m2[s2[i]]++;
             m2[s2[i-right]]--;
-            if(m2[s2[i-right]]<=0)
+            if(m2[s2[i-right]]==0)
                 m2.erase(s2[i-right]);
             if(compare_map(m1,m2))return true;
         }
