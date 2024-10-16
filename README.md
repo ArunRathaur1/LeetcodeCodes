@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
