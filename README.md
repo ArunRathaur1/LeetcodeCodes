@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
