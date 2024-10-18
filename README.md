@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Prefix Sum
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Math
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
