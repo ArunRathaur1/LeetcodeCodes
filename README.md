@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3195-separate-black-and-white-balls) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
