@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
+| [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
