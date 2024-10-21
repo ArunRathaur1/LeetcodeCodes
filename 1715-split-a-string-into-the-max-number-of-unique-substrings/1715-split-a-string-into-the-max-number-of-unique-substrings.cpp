@@ -1,23 +1,22 @@
 class Solution {
 public:
-    int maxsplits(string s,int l,int start,set<string>&seen){
-        if(start==s.size()){
-            return 0;
-        }
-        int m=0;
-        for(int i=start;i<l;i++){
-            string p=s.substr(start,i-start+1);
-            if(seen.find(p)==seen.end()){
-                seen.insert(p);
-                m=max(m,1+maxsplits(s,l,i+1,seen));
-                seen.erase(p);
-            }
-            
-        }
-        return m;
-    }
     int maxUniqueSplit(string s) {
-        set<string>s1;
-        return maxsplits(s,s.length(),0,s1);
+        set<string> st;
+        return helper(s, st, 0);
+    }
+    
+    int helper(string& s, set<string>& st, int index) {
+        if (index == s.length()) return 0;
+        
+        int maxSplit = 0;
+        for (int i = index; i < s.length(); i++) {
+            string substring = s.substr(index, i - index + 1);
+            if (st.find(substring) == st.end()) {  // Check if it's unique
+                st.insert(substring);
+                maxSplit = max(maxSplit, 1 + helper(s, st, i + 1));  // Recur for the remaining part
+                st.erase(substring);  // Backtrack
+            }
+        }
+        return maxSplit;
     }
 };
