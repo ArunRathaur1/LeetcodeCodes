@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0226-invert-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0226-invert-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0226-invert-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2677-cousins-in-binary-tree-ii) |
