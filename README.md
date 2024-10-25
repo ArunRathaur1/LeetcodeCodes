@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0932-monotonic-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0932-monotonic-array) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
