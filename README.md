@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Prefix Sum
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0088-merge-sorted-array) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Geometry
 |  |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0222-count-complete-tree-nodes) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 ## Tree
 |  |
 | ------- |
