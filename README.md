@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
+| [2580-circular-sentence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3195-separate-black-and-white-balls) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
