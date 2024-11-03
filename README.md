@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
 | ------- |
