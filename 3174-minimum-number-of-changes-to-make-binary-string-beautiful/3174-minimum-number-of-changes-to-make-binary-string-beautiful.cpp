@@ -5,29 +5,20 @@ public:
         char curr=s[0];
         int count=0;
         int change=0;
-       int i=0;
-        while(i<length){
+        for(int i=0;i<length;i++){
             if(s[i]==curr){
                 count++;
+                continue;
             }
-            else {
-                if(count%2!=0){
-                    s[i]=curr;
-                    change++;
-                    if(i+1<length){
-                        curr=s[++i];
-                    }
-                }
-                else{
-                    curr=s[i];
-                } 
+            if(count%2==0){
+                curr=s[i];
                 count=1;
             }
-            i++;
+            else{
+                change++;
+                count=0;
+            }
         }
-        // if(count%2!=0){
-        //     count++;
-        // }
         return change;
     }
 };
