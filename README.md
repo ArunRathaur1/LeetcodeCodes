@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3195-separate-black-and-white-balls) |
+| [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3451-string-compression-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3451-string-compression-iii) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Math
 |  |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 ## Sorting
 |  |
 | ------- |
@@ -281,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
