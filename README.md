@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
