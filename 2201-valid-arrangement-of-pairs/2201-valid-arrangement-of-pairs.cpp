@@ -3,9 +3,9 @@ public:
     void DFS(map<int,vector<int>>& adj, int start, vector<vector<int>>& ans) {
         while (!adj[start].empty()) {
             int next = adj[start].back();
-            adj[start].pop_back();  // Remove the edge
-            DFS(adj, next, ans);    // Recursively visit the next node
-            ans.push_back({start, next});  // Add this edge to the result
+            adj[start].pop_back(); 
+            DFS(adj, next, ans);    
+            ans.push_back({start, next});  
         }
     }
     
@@ -40,7 +40,7 @@ public:
         vector<vector<int>> ans;
         DFS(m, start, ans);
         
-        reverse(ans.begin(), ans.end());  // Reverse the order to get the correct path
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
