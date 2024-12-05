@@ -23,24 +23,23 @@ class Solution {
 public:
     Node* cloneGraph(Node* node) {
         if(node==NULL)return node;
-        Node* n=new Node(node->val);
+        map<Node*,Node*>m;
         queue<Node*>q;
         q.push(node);
-        map<Node*,Node*>visited;
-        visited[node]=n;
+        Node* n=new Node(node->val);
+        m[node]=n;
         while(!q.empty()){
-            Node* x=q.front();
+            Node* tem=q.front();
             q.pop();
-            for(auto node:x->neighbors){
-                if(visited.find(node)==visited.end()){
-                    Node* p=new Node(node->val);
-                    visited[node]=p;
-                    q.push(node);
+            for(auto neighbour: tem->neighbors){
+                if(m.find(neighbour)==m.end()){
+                    Node* newnode=new Node(neighbour->val);
+                    m[neighbour]=newnode;
+                    q.push(neighbour);
                 }
-                visited[x]->neighbors.push_back(visited[node]);
+                m[tem]->neighbors.push_back(m[neighbour]);
             }
-
         }
-        return visited[node];
+        return m[node];
     }
 };
