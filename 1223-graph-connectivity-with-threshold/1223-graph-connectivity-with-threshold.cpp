@@ -4,9 +4,9 @@ public:
         map<int,vector<int>>adj;
         for (int i = 1; i <= n; i++) {
             for (int j = i * 2; j <= n; j += i) {
-                if (gcd(i, j) > threshold) {
+                if (i > threshold) {
                     adj[i].push_back(j);
-                    adj[j].push_back(i);  // To make sure the graph is undirected
+                    adj[j].push_back(i);  
                 }
             }
         }
