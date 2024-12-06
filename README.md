@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
+| [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0222-count-complete-tree-nodes) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
