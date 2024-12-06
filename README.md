@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2201-valid-arrangement-of-pairs) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2439-longest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
