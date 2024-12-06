@@ -1,7 +1,6 @@
 class Solution {
 public:
     int findShortestCycle(int n, vector<vector<int>>& edges) {
-        // Build the adjacency list
         vector<vector<int>> adj(n);
         for (const auto& edge : edges) {
             adj[edge[0]].push_back(edge[1]);
@@ -9,8 +8,6 @@ public:
         }
 
         int shortestCycle = INT_MAX;
-
-        // Perform BFS from each node
         for (int i = 0; i < n; ++i) {
             vector<int> dist(n, -1); // Distance from the starting node
             vector<int> parent(n, -1); // Parent node to avoid revisiting the same edge
