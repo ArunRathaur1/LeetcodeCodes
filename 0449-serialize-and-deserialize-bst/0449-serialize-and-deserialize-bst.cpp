@@ -23,10 +23,10 @@ public:
         TreeNode* p=q.front();
         q.pop();
         if(p==nullptr){
-            ans+="# ";
+            ans.append("# ");
         }
         else{
-            ans+=to_string(p->val)+" ";
+            ans.append(to_string(p->val)+" ");
                 q.push(p->left);
                 q.push(p->right);
         }
