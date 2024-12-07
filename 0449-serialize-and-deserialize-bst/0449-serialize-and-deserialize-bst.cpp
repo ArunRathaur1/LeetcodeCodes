@@ -22,14 +22,14 @@ public:
    {
         TreeNode* p=q.front();
         q.pop();
-                if (p == nullptr) {
-                ans += "# ";
-            } else {
-                ans += to_string(p->val) + " ";
+        if(p==nullptr){
+            ans+="# ";
+        }
+        else{
+            ans+=to_string(p->val)+" ";
                 q.push(p->left);
                 q.push(p->right);
-            }
-
+        }
    }
    return ans;
     }
