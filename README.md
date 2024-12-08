@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
+| [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2089-maximum-matrix-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2232-adding-spaces-to-a-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
+| [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
