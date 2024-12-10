@@ -11,13 +11,24 @@ public:
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        set<vector<int>>st;
+        // set<vector<int>>st;
+        // vector<vector<int>>ans;
+        // vector<int>tem;
+        // int size=nums.size();
+        // generate(nums,st,tem,0,size);
+        // for(auto i: st){
+        //     ans.push_back(i);
+        // }
+        // return ans;
+
+
+
+        //code 2
         vector<vector<int>>ans;
-        vector<int>tem;
-        int size=nums.size();
-        generate(nums,st,tem,0,size);
-        for(auto i: st){
-            ans.push_back(i);
+        sort(nums.begin(),nums.end());
+        ans.push_back(nums);
+        while(next_permutation(nums.begin(),nums.end())){
+            ans.push_back(nums);
         }
         return ans;
     }
