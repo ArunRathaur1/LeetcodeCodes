@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0056-merge-intervals) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0036-valid-sudoku) |
 | [0419-battleships-in-a-board](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0419-battleships-in-a-board) |
 | [1972-rotating-the-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2089-maximum-matrix-sum) |
