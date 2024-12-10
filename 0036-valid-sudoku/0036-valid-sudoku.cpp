@@ -13,7 +13,6 @@ public:
                             return false;
                         }
                 }
-                cout<<endl;
                }
             }
         }
