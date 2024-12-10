@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0290-word-pattern) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0088-merge-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
