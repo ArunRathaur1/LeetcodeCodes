@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0290-word-pattern) |
