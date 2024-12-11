@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0290-word-pattern) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0419-battleships-in-a-board](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0419-battleships-in-a-board) |
 | [1972-rotating-the-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2089-maximum-matrix-sum) |
