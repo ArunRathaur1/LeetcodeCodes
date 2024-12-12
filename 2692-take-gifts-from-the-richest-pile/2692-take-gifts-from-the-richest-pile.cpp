@@ -1,18 +1,20 @@
 class Solution {
 public:
     long long pickGifts(vector<int>& g, int k) {
-        // Create max-heap
-        make_heap(g.begin(), g.end());
-        for (int i = 0, x = INT_MAX; i < k && x > 1; i++) {
-            // Pop max element
-            pop_heap(g.begin(), g.end());
-            x = g.back();
-            // Update element
-            g.back() = sqrt(g.back());
-            push_heap(g.begin(), g.end());
-        }
-        // Return sum
-        return accumulate(g.begin(), g.end(), 0LL);
+        priority_queue<int,vector<int>>q;
+       int size=g.size();
+       for(auto i: g)q.push(i);
+       for(int i=0;i<k;i++){
+        int p=q.top();
+        q.pop();
+        q.push(sqrt(p));
+       }
+       long long tem=0;
+       while(!q.empty()){
+        tem=tem+q.top();
+        q.pop();
+       }
+       return tem;
     }
 };
         
