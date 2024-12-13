@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0095-unique-binary-search-trees-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0173-binary-search-tree-iterator) |
