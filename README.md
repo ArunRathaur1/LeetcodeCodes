@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
@@ -533,4 +534,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
