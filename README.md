@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
@@ -558,4 +560,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
