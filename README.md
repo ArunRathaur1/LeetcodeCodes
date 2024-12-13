@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0609-find-duplicate-file-in-system) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0932-monotonic-array) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0222-count-complete-tree-nodes) |
+| [0792-binary-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0792-binary-search) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
