@@ -1,43 +1,25 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        if(head==NULL||head->next==NULL)return head;
-        ListNode*tem=new ListNode(-1);
-        tem->next=head;
-        ListNode* prev=tem;
-        ListNode* curr=head;
-        ListNode* currnext=head->next;
-        while(currnext!=NULL){
-            if(curr->val==currnext->val){
-                 while(curr->val==currnext->val){
-                    currnext=currnext->next;
-                    if(currnext==NULL)break;
+        if (!head || !head->next) return head;
+
+        ListNode* dummy = new ListNode(-1, head); // Dummy node to simplify edge cases
+        ListNode* prev = dummy;
+        ListNode* curr = head;
+
+        while (curr && curr->next) {
+            if (curr->val == curr->next->val) {
+                // Skip all nodes with the same value
+                while (curr->next && curr->val == curr->next->val) {
+                    curr = curr->next;
                 }
-                if(currnext==NULL){
-                    prev->next=NULL;
-                    break;
-                }
-                curr=currnext;
-                prev->next=curr;
-                currnext=currnext->next;
-                continue;
+                prev->next = curr->next; // Link prev to the node after duplicates
+            } else {
+                prev = curr; // Move prev to the current node if no duplicates
             }
-            prev=curr;
-            curr=currnext;
-            currnext=currnext->next;
+            curr = curr->next; // Move to the next node
         }
-        if(tem->next!=NULL)
-        return tem->next;
-        return NULL;
+
+        return dummy->next;
     }
 };
