@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2716-prime-subtraction-operation](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2716-prime-subtraction-operation) |
 | [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
