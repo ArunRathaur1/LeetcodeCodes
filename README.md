@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1755-defuse-the-bomb) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Number Theory
 |  |
