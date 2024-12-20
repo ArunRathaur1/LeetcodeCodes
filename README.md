@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0609-find-duplicate-file-in-system) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0932-monotonic-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0045-jump-game-ii) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0088-merge-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Number Theory
