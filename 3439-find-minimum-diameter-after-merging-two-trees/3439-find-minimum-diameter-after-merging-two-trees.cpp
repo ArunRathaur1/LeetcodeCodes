@@ -3,7 +3,7 @@ using namespace std;
 
 class Solution {
 public:
-    // Adjacency list creation
+    // Function to construct adjacency list
     map<int, vector<int>> adjfunction(vector<vector<int>>& edges) {
         map<int, vector<int>> m;
         for (auto& edge : edges) {
@@ -13,55 +13,52 @@ public:
         return m;
     }
 
-    // BFS to calculate the farthest node and distance
-    pair<int, int> bfs(map<int, vector<int>>& adj, int start) {
-        queue<int> q;
-        q.push(start);
-        unordered_map<int, int> dist;
-        dist[start] = 0;
+    // DFS function to calculate diameter
+    int dfs(map<int, vector<int>>& adj, int currnode, vector<bool>& visited, int& diameter) {
+        visited[currnode] = true;
+        int t1 = 0, t2 = 0;
 
-        int farthest_node = start, max_dist = 0;
-
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-
-            for (int neighbor : adj[node]) {
-                if (dist.find(neighbor) == dist.end()) {
-                    dist[neighbor] = dist[node] + 1;
-                    q.push(neighbor);
-
-                    if (dist[neighbor] > max_dist) {
-                        max_dist = dist[neighbor];
-                        farthest_node = neighbor;
-                    }
+        for (int neighbor : adj[currnode]) {
+            if (!visited[neighbor]) {
+                int depth = dfs(adj, neighbor, visited, diameter);
+                if (depth > t1) {
+                    t2 = t1;
+                    t1 = depth;
+                } else if (depth > t2) {
+                    t2 = depth;
                 }
             }
         }
-        return {farthest_node, max_dist};
+
+        diameter = max(diameter, t1 + t2);
+        return t1 + 1;
     }
 
     int minimumDiameterAfterMerge(vector<vector<int>>& edges1, vector<vector<int>>& edges2) {
         auto m1 = adjfunction(edges1);
         auto m2 = adjfunction(edges2);
 
-        // Compute the diameters using BFS
-        auto [farthest1_m1, _diameter1_start] = bfs(m1, 0); // Unique variable names
-        auto [farthest2_m1, diameter1] = bfs(m1, farthest1_m1);
+        int diameter1 = 0, diameter2 = 0;
 
-        auto [farthest1_m2, _diameter2_start] = bfs(m2, 0); // Unique variable names
-        auto [farthest2_m2, diameter2] = bfs(m2, farthest1_m2);
-
-        // Calculate the merged diameter
-        int x = 0;
-        if (diameter1 % 2 == 0 && diameter2 % 2 == 0) {
-            x = diameter1 / 2 + diameter2 / 2 + 1;
-        } else if (diameter1 % 2 == 0 || diameter2 % 2 == 0) {
-            x = diameter1 / 2 + diameter2 / 2 + 2;
-        } else {
-            x = diameter1 / 2 + diameter2 / 2 + 3;
+        if (!m1.empty()) {
+            vector<bool> visited1(1e5+1, false); // Assuming nodes are between 0 and 1000
+            dfs(m1, m1.begin()->first, visited1, diameter1);
         }
 
-        return max({x, diameter1, diameter2});
+        if (!m2.empty()) {
+            vector<bool> visited2(1e5+1, false); // Assuming nodes are between 0 and 1000
+            dfs(m2, m2.begin()->first, visited2, diameter2);
+        }
+
+        int merged_diameter = 0;
+        if (diameter1 % 2 == 0 && diameter2 % 2 == 0) {
+            merged_diameter = diameter1 / 2 + diameter2 / 2 + 1;
+        } else if (diameter1 % 2 == 0 || diameter2 % 2 == 0) {
+            merged_diameter = diameter1 / 2 + diameter2 / 2 + 2;
+        } else {
+            merged_diameter = diameter1 / 2 + diameter2 / 2 + 3;
+        }
+
+        return max({merged_diameter, diameter1, diameter2});
     }
 };
