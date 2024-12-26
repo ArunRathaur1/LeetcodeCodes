@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
 | [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0419-battleships-in-a-board](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0609-find-duplicate-file-in-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0609-find-duplicate-file-in-system) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0717-1-bit-and-2-bit-characters) |
