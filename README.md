@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0609-find-duplicate-file-in-system) |
 | [0926-find-and-replace-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0926-find-and-replace-pattern) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0792-binary-search) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
+| [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 ## Iterator
 |  |
 | ------- |
@@ -631,5 +635,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
