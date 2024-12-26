@@ -5,13 +5,12 @@ public:
         int tem=-1;
         int start=0;
         for(int i=0;i<s;i++){
-        string p=to_string(num[i]);
-        int q=stoi(p)-'0';
+        int q=num[i]-'0';
             if(q<change[q]){
                 if(start==0){
                     start=i+1;
                 }
-                num[i]=char(change[q])+'0';
+                num[i]=change[q]+'0';
             }
             else if(q==change[q])continue;
             else if(start!=0){
