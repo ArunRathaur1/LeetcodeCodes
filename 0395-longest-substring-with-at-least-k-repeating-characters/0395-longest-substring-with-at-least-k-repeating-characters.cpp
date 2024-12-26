@@ -1,51 +1,62 @@
+#include <iostream>
+#include <map>
+#include <queue>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int longestSubstring(string s, int k) {
-        // Priority Queue to manage substrings
+        int n = s.length();
+        if (n < k) return 0; // No valid substring if length of string is smaller than k
+
+        // Create a priority queue for substrings
         priority_queue<pair<int, int>> q;
-        int l = s.length();
-        q.push({l, 0}); // Initially push the entire string
-        
+        q.push({n, 0});  // Push the entire string as the first substring
+
         while (!q.empty()) {
-            pair<int, int> x = q.top(); q.pop(); // Extract the front of the queue
-            
-            map<char, int> f; // Frequency map of characters
-            int start = x.second;
-            int length = x.first;
-            
-            // Build frequency map
+            pair<int, int> tem = q.top();
+            q.pop();
+            int start = tem.second;
+            int length = tem.first;
+            map<char, int> freq;
+
+            // Build the frequency map for the current substring
             for (int i = start; i < start + length; i++) {
-                f[s[i]]++;
+                freq[s[i]]++;
             }
-            
+
             int flag = 1;
-            
-            // Check the frequencies of the characters
-            for (auto j : f) {
+
+            // Check all characters in the frequency map
+            for (auto j : freq) {
                 if (j.second < k) {
-                    // If character frequency is less than k, split the substring around it
                     int p = start;
+                    // Split the substring at each occurrence of the character j.first
                     for (int i = start; i < start + length; i++) {
                         if (s[i] == j.first) {
                             if (i > p) {
-                                q.push({i - p, p}); // Push the left segment
+                                q.push({i - p, p});  // Push the left part of the substring
                             }
-                            p = i + 1; // Skip the character
+                            p = i + 1;  // Move the starting point past this character
                         }
                     }
                     if (p < start + length) {
-                        q.push({start + length - p, p}); // Push the right segment if valid
+                        q.push({start + length - p, p});  // Push the right part of the substring
                     }
-                    flag = 0; // Substring is not valid, break and process further
-                    break; // Stop checking further characters
+
+                    // Since we split, no need to check further characters
+                    flag = 0;
+                    break;
                 }
             }
-            
-            // If all characters are valid, return the current substring length
+
+            // If all characters satisfy the condition, return the current substring length
             if (flag == 1) {
                 return length;
             }
         }
-        return 0; // Return -1 if no valid substring found
+        return 0;  // No valid substring found
     }
 };
+
