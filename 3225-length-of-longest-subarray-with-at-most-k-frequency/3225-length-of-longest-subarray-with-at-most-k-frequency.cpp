@@ -4,7 +4,7 @@ public:
         int left=0;
         int right=0;
         int maxlength=0;
-        map<int,int>currfreq;
+        unordered_map<int,int>currfreq;
         int s=nums.size();
         while(right<s){
             if(currfreq.find(nums[right])==currfreq.end()){
