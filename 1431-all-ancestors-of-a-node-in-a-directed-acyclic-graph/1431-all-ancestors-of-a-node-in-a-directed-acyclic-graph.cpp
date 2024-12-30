@@ -1,38 +1,33 @@
-#include <vector>
-#include <set>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
-    void dfs(const vector<vector<int>>& adj, int node, vector<set<int>>& ans, int startNode) {
-        for (int parent : adj[node]) {
-            if (ans[startNode].insert(parent).second) { // Only continue if the parent is newly added
-                dfs(adj, parent, ans, startNode); // Recur for the parent
+    void dfs(map<int,vector<int>>&adj,int node,vector<set<int>>&ans,int node1,vector<bool>&visited){
+        if(adj.find(node)==adj.end()||adj[node].size()==0||visited[node])return;
+        visited[node]=true;
+        for(auto i: adj[node]){
+            if(ans[node1].find(i)==ans[node1].end())
+            {
+                ans[node1].insert(i);
+                dfs(adj,i,ans,node1,visited);
             }
         }
     }
-
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> adj(n); // Adjacency list
-        vector<set<int>> ans(n);    // To store ancestors without duplicates
-
-        // Build adjacency list (child -> parent)
-        for (const auto& edge : edges) {
-            adj[edge[1]].push_back(edge[0]);
+        vector<set<int>>ans(n);
+        map<int,vector<int>>adj;
+        int p=edges.size();
+        for(int i=0;i<p;i++){
+            adj[edges[i][1]].push_back(edges[i][0]);
         }
-
-        // Perform DFS for each node to find all its ancestors
-        for (int i = 0; i < n; ++i) {
-            dfs(adj, i, ans, i);
+        for(int i=0;i<n;i++){
+            vector<bool>visited(n,false);
+            dfs(adj,i,ans,i,visited);
         }
-
-        // Convert set to sorted vector for the result
-        vector<vector<int>> result(n);
-        for (int i = 0; i < n; ++i) {
-            result[i] = vector<int>(ans[i].begin(), ans[i].end());
+        vector<vector<int>>ar;
+        for(int i=0;i<n;i++){
+            vector<int>res=vector<int>(ans[i].begin(),ans[i].end());
+            ar.push_back(res);
         }
-
-        return result;
+        return ar;
     }
+
 };
