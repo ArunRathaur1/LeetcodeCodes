@@ -13,7 +13,7 @@ int value=1e9+7;
     int countGoodStrings(int low, int high, int zero, int one) {
         int ans=0; 
         int p=max(zero,one);
-        vector<int>dp(high+zero+one+1,-1);
+        vector<int>dp(high+1,-1);
         for(int i=low;i<=high;i++){
             ans=(ans%value+totalways(i,zero,one,i,dp)%value)%value;
         }
