@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(map<int,vector<int>>&adj,int node,vector<set<int>>&ans,int node1,vector<bool>&visited){
+    void dfs(unordered_map<int,vector<int>>&adj,int node,vector<set<int>>&ans,int node1,vector<bool>&visited){
         if(adj.find(node)==adj.end()||adj[node].size()==0||visited[node])return;
         visited[node]=true;
         for(auto i: adj[node]){
@@ -13,7 +13,7 @@ public:
     }
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
         vector<set<int>>ans(n);
-        map<int,vector<int>>adj;
+        unordered_map<int,vector<int>>adj;
         int p=edges.size();
         for(int i=0;i<p;i++){
             adj[edges[i][1]].push_back(edges[i][0]);
