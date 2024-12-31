@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
+| [1025-minimum-cost-for-tickets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0932-monotonic-array) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
+| [1025-minimum-cost-for-tickets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
