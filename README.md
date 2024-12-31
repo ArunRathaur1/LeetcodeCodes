@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0225-implement-stack-using-queues) |
 | [2868-continuous-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
