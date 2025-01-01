@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0609-find-duplicate-file-in-system) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0926-find-and-replace-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0926-find-and-replace-pattern) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
