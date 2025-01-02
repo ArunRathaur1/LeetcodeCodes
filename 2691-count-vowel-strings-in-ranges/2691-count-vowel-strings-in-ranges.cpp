@@ -22,9 +22,6 @@ public:
                 count[i+1]=count[i];
             }
         } 
-        for(int i=0;i<n+1;i++){
-            cout<<count[i]<<' ';
-        }
         vector<int>ans;
         for(int i=0;i<p;i++){
             ans.push_back(count[queries[i][1]+1]-count[queries[i][0]]);
