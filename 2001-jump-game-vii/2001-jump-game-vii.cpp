@@ -1,25 +1,31 @@
 class Solution {
 public:
-    bool canReach(string s, int minJ, int maxJ) {
-        int n=s.length();
-        if(s[n-1]=='1')return false;
-       queue<int>q;
-       int farthest=0;
-       q.push(0);
-       while(!q.empty()){
-            int tem=q.front();
+    bool canReach(string s, int minJump, int maxJump) {
+        int n = s.length();
+        if (s[n - 1] == '1') return false; // Last index is unreachable
+
+        queue<int> q;
+        q.push(0); // Start BFS from the first index
+        int farthest = 0; // Tracks the farthest processed index
+
+        while (!q.empty()) {
+            int current = q.front();
             q.pop();
-            int x=n-1;
-            int k=min(tem+maxJ,x);
-            int y=max(tem+minJ,farthest+1);
-            for(int i=y;i<=k;i++){
-                    if(s[i]=='0'){
-                        q.push(i);
-                    }
-                    if(i==n-1)return true;
+
+            // Start checking from the max of (current + minJump, farthest)
+            int start = max(current + minJump, farthest + 1);
+            int end = min(current + maxJump, n - 1);
+
+            for (int i = start; i <= end; ++i) {
+                if (s[i] == '0') { // If reachable
+                    if (i == n - 1) return true; // Early exit if last index is reached
+                    q.push(i);
                 }
-            farthest=max(farthest,tem+maxJ);
             }
-      return false;
+
+            farthest = max(farthest, current + maxJump); // Update farthest after processing
+        }
+
+        return false; // If BFS completes and last index is not reached
     }
 };
