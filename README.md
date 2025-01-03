@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0412-fizz-buzz) |
 | [0983-validate-stack-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
