@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2001-jump-game-vii) |
+| [2358-number-of-ways-to-split-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2691-count-vowel-strings-in-ranges) |
