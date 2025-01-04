@@ -1,20 +1,34 @@
+#include <string>
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int countPalindromicSubsequence(string s) {
-        unordered_set<string>st;
-        int n=s.length();
-        for(int i=0;i<26;i++){
-            char ch=i+'a';
-            int start=0;
-            while(start<n&&s[start]!=ch)start++;
-            int end=n-1;
-            while(end>=0&&s[end]!=ch)end--;
-            for(int j=start+1;j<end;j++){
-                string sub="";
-                sub=sub+ch+s[j]+ch;
-                st.insert(sub);
-            }
+        int n = s.size();
+        vector<int> left(26, 0), right(26, 0);
+        
+        // Initialize the right array with the frequency of each character
+        for (char c : s) {
+            right[c - 'a']++;
         }
-        return st.size();
+        
+        unordered_set<string> uniquePalindromes;
+        for (int i = 0; i < n; i++) {
+            right[s[i] - 'a']--; // Remove the current character from the right
+            
+            for (char c = 'a'; c <= 'z'; c++) {
+                if (left[c - 'a'] > 0 && right[c - 'a'] > 0) {
+                    string palindrome = string(1, c) + s[i] + c;
+                    uniquePalindromes.insert(palindrome);
+                }
+            }
+            
+            left[s[i] - 'a']++; // Add the current character to the left
+        }
+        
+        return uniquePalindromes.size();
     }
 };
