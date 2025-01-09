@@ -4,9 +4,9 @@ public:
     int numFactoredBinaryTrees(vector<int>& arr) {
         int n=arr.size();
         map<int,vector<pair<int,int>>>m;
-        set<int>st;
+        unordered_set<int>st;
         for(auto i: arr)st.insert(i);
-        map<int,int>ans;
+        unordered_map<int,int>ans;
         for(int i=0;i<n;i++){
             int k=arr[i];
             for(int j=0;j<n;j++){
