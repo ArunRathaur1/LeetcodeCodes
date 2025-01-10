@@ -26,7 +26,7 @@ public:
         for(int i=0;i<n;i++){
             m[inorder[i]]=i;
         }
-         int preindex = 0;
+        int preindex=0;
         return Tree(preorder, inorder, m, 0, n - 1, preindex, n);
     }
 };
