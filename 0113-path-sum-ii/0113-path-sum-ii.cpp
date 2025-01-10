@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void totalpath(vector<vector<int>>&ans,vector<int>ar,TreeNode* root,int targetsum,int sum){
+    void totalpath(vector<vector<int>>&ans,vector<int>&ar,TreeNode* root,int targetsum,int sum){
         if(root==NULL)return;
         if(root->left==NULL&& root->right==NULL){
             ar.push_back(root->val);
@@ -19,11 +19,13 @@ public:
             if(targetsum==sum){
                 ans.push_back(ar);
             }
+            ar.pop_back();
             return;
         }
         ar.push_back(root->val);
         totalpath(ans,ar,root->left,targetsum,sum+root->val);
         totalpath(ans,ar,root->right,targetsum,sum+root->val);
+        ar.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>>ans;
