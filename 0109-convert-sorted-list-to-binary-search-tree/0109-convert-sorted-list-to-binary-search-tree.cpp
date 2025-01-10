@@ -21,22 +21,30 @@
  */
 class Solution {
 public:
-    TreeNode* Tree(vector<int>values,int left,int right){
-        if(left>right)return NULL;
-        int mid=(left+right)/2;
-        TreeNode* root=new TreeNode(values[mid]);
-        root->left=Tree(values,left,mid-1);
-        root->right=Tree(values,mid+1,right);
-        return root;
-    }
+    // TreeNode* Tree(vector<int>values,int left,int right){
+    //     if(left>right)return NULL;
+    //     int mid=(left+right)/2;
+    //     TreeNode* root=new TreeNode(values[mid]);
+    //     root->left=Tree(values,left,mid-1);
+    //     root->right=Tree(values,mid+1,right);
+    //     return root;
+    // }
     TreeNode* sortedListToBST(ListNode* head) {
         if(head==NULL)return NULL;
-        vector<int>values;
-        while(head!=NULL){
-            values.push_back(head->val);
-            head=head->next;
+        ListNode* prev=NULL;
+        ListNode* slowprev=head;
+        ListNode* fast=head;
+        while(fast!=NULL&&fast->next!=NULL){
+            fast=fast->next->next;
+            prev=slowprev;
+            slowprev=slowprev->next;
         }
-        int n=values.size();
-        return Tree(values,0,n-1);
+        TreeNode* root=new TreeNode(slowprev->val);
+        if(prev!=NULL){
+            prev->next=NULL;
+            root->left=sortedListToBST(head);
+        }
+        root->right=sortedListToBST(slowprev->next);
+        return root;
     }
 };
