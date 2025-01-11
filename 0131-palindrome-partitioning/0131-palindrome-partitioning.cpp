@@ -1,12 +1,12 @@
 class Solution {
 public:
-    void allparts(string s ,int index,vector<string>&ans,int n,vector<vector<string>>&ar,map<pair<int,int>,int>&dp){
+    void allparts(string s ,int index,vector<string>&ans,int n,vector<vector<string>>&ar,vector<vector<int>>&dp){
         if(index>n)return;
         if(index==n){
             ar.push_back(ans);
         }
         for(int i=index;i<n;i++){
-            if(dp.find({i+1,index+1})==dp.end()){
+            if(dp[i+1][index+1]==-1){
                 int left=index;
                 int right=i;
                 int flag=0;
@@ -20,10 +20,10 @@ public:
                     break;
                     }
                 }
-                dp[{(i+1),(index+1)}]=flag==0?1:0;
+                dp[i+1][index+1]=flag==0?1:0;
 
             }
-            if(dp[{(i+1),(index+1)}]==1){
+            if(dp[i+1][index+1]==1){
                 string tem=s.substr(index,i-index+1);
                 ans.push_back(tem);
                 allparts(s,i+1,ans,n,ar,dp);
@@ -35,7 +35,7 @@ public:
         vector<vector<string>>ar;
         vector<string>ans;
         int l=s.length();
-        map<pair<int,int>,int>dp;
+        vector<vector<int>>dp(l+1,vector<int>(l+1,-1));
         allparts(s,0,ans,l,ar,dp);
         return ar;
     }
