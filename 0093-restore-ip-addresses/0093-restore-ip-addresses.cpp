@@ -4,7 +4,6 @@ public:
         if(index>n)return ;
         if(index==n){
             ans.pop_back();
-            cout<<ans<<endl;
             if(count==4)
                 ar.push_back(ans);
             return;
