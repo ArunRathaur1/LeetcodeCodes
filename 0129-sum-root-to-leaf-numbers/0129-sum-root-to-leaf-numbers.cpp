@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    void answer(TreeNode* root,string number,int &total){
+    void answer(TreeNode* root,int number,int &total){
         if(root->left==NULL&& root->right==NULL){
-           total=total+stoi(number+to_string(root->val));
+            total=total+number*10+root->val;
            return;
         }        
-        if(root->left)answer(root->left,number+to_string(root->val),total);
-        if(root->right)answer(root->right,number+to_string(root->val),total);       
+        if(root->left)answer(root->left,number*10+root->val,total);
+        if(root->right)answer(root->right,number*10+root->val,total);       
     }
     int sumNumbers(TreeNode* root) {
-        string s="";
+        int s=0;
         int total=0;
         answer(root,s,total);
         return total;
