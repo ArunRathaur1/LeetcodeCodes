@@ -2,6 +2,7 @@ class Solution {
 public:
     void generate(string&s,vector<string>&ar,string ans,int index,int&n,int count){
         if(index>n)return ;
+        if(count>4)return;
         if(index==n){
             ans.pop_back();
             if(count==4)
