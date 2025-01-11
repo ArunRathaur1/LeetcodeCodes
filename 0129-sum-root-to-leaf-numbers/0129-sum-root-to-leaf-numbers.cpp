@@ -13,7 +13,6 @@ class Solution {
 public:
     void answer(TreeNode* root,string number,int &total){
         if(root->left==NULL&& root->right==NULL){
-            cout<<number<<endl;
            total=total+stoi(number+to_string(root->val));
            return;
         }        
