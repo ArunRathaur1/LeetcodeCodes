@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2077-largest-number-after-mutating-substring) |
 | [2107-find-unique-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2107-find-unique-binary-string) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2077-largest-number-after-mutating-substring) |
 | [2089-maximum-matrix-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
