@@ -22,19 +22,14 @@ public:
         Node* i=head;
         Node* j=newhead;
         unordered_map<Node*,Node*>m;
+        m[i]=newhead;
         i=i->next;
         while(i!=NULL){
             Node* tem=new Node(i->val);
+            m[i]=tem;
             i=i->next;
             j->next=tem;
             j=tem;
-        }
-        j=newhead;
-        i=head;
-        while(j!=NULL){
-            m[i]=j;
-            i=i->next;
-            j=j->next;
         }
         j=newhead;
         i=head;
