@@ -1,36 +1,38 @@
 class Solution {
 public:
     bool canBeValid(string s, string locked) {
-        int n = s.length();
-        if (n % 2 != 0) return false; // Odd length cannot be valid
-        
-        int open = 0, balance = 0;
-
-        // Forward pass: Ensure there are enough `(` to balance `)`
-        for (int i = 0; i < n; i++) {
-            if (locked[i] == '1') {
-                open += (s[i] == '(' ? 1 : -1);
-            } else {
-                open++; // Unlocked can act as `(`
+        stack<int>ar1,ar2;
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            if(s[i]=='('&& locked[i]=='1'){
+                ar1.push(i);
             }
-            balance++;
-            if (open < 0) return false; // Too many `)` locked
-        }
-
-        open = 0;
-        balance = 0;
-
-        // Backward pass: Ensure there are enough `)` to balance `(`
-        for (int i = n - 1; i >= 0; i--) {
-            if (locked[i] == '1') {
-                open += (s[i] == ')' ? 1 : -1);
-            } else {
-                open++; // Unlocked can act as `)`
+            else if(locked[i]=='0'){
+                ar2.push(i);
             }
-            balance++;
-            if (open < 0) return false; // Too many `(` locked
+            else{
+                if(!ar1.empty()){
+                    ar1.pop();
+                }
+                else if(!ar2.empty()){
+                    ar2.pop();
+                }
+                else{
+                    return false;
+                }
+            }
         }
-
-        return true;
+        while(!ar1.empty()&& !ar2.empty()){
+            if(ar1.top()<ar2.top()){
+                ar1.pop();
+                ar2.pop();
+            }
+            else{
+                return false;
+            }
+        }
+        if(!ar1.empty())return false;
+        if(ar2.size()%2==0)return true;
+        return false;
     }
 };
