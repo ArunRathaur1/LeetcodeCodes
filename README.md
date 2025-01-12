@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0290-word-pattern) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -834,4 +839,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
