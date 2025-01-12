@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -850,4 +852,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
