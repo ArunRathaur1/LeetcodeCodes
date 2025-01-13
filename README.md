@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3451-string-compression-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 ## Dynamic Programming
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Graph
 |  |
 | ------- |
