@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2001-jump-game-vii) |
 | [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2562-count-ways-to-build-good-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1502-construct-k-palindrome-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2439-longest-cycle-in-a-graph) |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2439-longest-cycle-in-a-graph) |
 ## Linked List
 |  |
@@ -851,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
