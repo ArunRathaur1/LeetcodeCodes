@@ -8,15 +8,8 @@ public:
        } 
        int count=0;
        for(int i=0;i<26;i++){
-            if(ar[i]<=2)count=count+ar[i];
-            else{
-                if(ar[i]%2==0){
-                    count=count+2;
-                }
-                else{
-                    count++;
-                }
-            }
+            if(ar[i]>0)
+                count+=(ar[i]%2==0)?2:1;
        }
        return count;
     }
