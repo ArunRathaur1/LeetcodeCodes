@@ -1,42 +1,45 @@
 class Solution {
 public:
-vector<int>countsort(vector<int>ar,int index){
-    vector<int>array(10,0);
-    int x=ar.size();
-    vector<int>output(x,0);
-    for(int i=0;i<x;i++){
-        int p=(ar[i]/index)%10;
-        array[p]++;
-    }
-    for(int i=1;i<10;i++){
-        array[i]=array[i]+array[i-1];
-    }
-    for(int i=x-1;i>=0;i--){
-        int p=(ar[i]/index)%10;
-        output[array[p]-1]=ar[i];
-        array[p]--;
-    }
-    return output;
-
-}
-void radixsort(vector<int>&ar,int n){
-    int m=*max_element(ar.begin(),ar.end());
-    int digits=to_string(m).length();
-    long long index=1;
-    for(int i=0;i<digits;i++){
-       vector<int>csort=countsort(ar,index);
-       ar=csort;
-       index=index*10;
-    }
-}
     int maximumGap(vector<int>& nums) {
-        int n=nums.size();
-       if(n<2)return false;
-       radixsort(nums,n);
-       int m=INT_MIN;
-       for(int i=1;i<n;i++){
-            m=max(m,nums[i]-nums[i-1]);
-       }
-       return m;
+        if (nums.size() < 2) return 0;
+
+        int maxNumber = *max_element(nums.begin(), nums.end());
+        int minNumber = *min_element(nums.begin(), nums.end());
+        int size = nums.size();
+
+        // Calculate bucket size and count
+        int bucketSize = max(1, (maxNumber - minNumber) / (size - 1));
+        int bucketCount = (maxNumber - minNumber) / bucketSize + 1;
+
+        vector<vector<int>> buckets(bucketCount, vector<int>(2, -1)); // Stores [min, max]
+
+        // Place numbers into buckets
+        for (int num : nums) {
+            if (num == minNumber || num == maxNumber) continue;
+
+            int index = (num - minNumber) / bucketSize;
+            if (buckets[index][0] == -1) { // Empty bucket
+                buckets[index][0] = num;
+                buckets[index][1] = num;
+            } else {
+                buckets[index][0] = min(buckets[index][0], num);
+                buckets[index][1] = max(buckets[index][1], num);
+            }
+        }
+
+        // Calculate the maximum gap
+        int maxGap = 0;
+        int previousMax = minNumber;
+
+        for (const auto& bucket : buckets) {
+            if (bucket[0] == -1) continue; // Skip empty buckets
+            maxGap = max(maxGap, bucket[0] - previousMax);
+            previousMax = bucket[1];
+        }
+
+        // Final gap between the last bucket and the maximum number
+        maxGap = max(maxGap, maxNumber - previousMax);
+
+        return maxGap;
     }
 };
