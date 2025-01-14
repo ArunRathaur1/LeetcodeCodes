@@ -2,8 +2,6 @@ class Solution {
 public:
     int compareVersion(string version1, string version2) {
         stringstream ss(version1), ss1(version2);
-        vector<string>ar1;
-        vector<string>ar2;
         string g1,g2;
         while(!ss.eof()||!ss1.eof()){
             int num1=0;
