@@ -3,7 +3,6 @@ public:
     int xorAllNums(vector<int>& nums1, vector<int>& nums2) {
         int x1=nums1.size();
         int x2=nums2.size();
-        cout<<x1<<" "<<x2<<endl;
         int absxor=0;
         if(x1%2==0&&x2%2==0)return 0;
         int first=0,second=0;
@@ -13,7 +12,6 @@ public:
         for(int i=0;i<x2;i++){
             second=second^nums2[i];
         }
-        cout<<first<<" "<<second<<endl;
         if(x1%2==0){
             return first;
         }
