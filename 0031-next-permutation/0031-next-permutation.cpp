@@ -5,7 +5,7 @@ public:
         int flag=0;
         for(int i=size-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
-                int minelement=*std::max_element(nums.begin()+i,nums.end());
+                int minelement=INT_MAX;
                 int index=-1;
                 for(int j=i;j<size;j++){
                     if(nums[j]>nums[i]&& nums[j]<=minelement){
