@@ -15,6 +15,7 @@ public:
             int cost=p.first;
             int x=p.second.first;
             int y=p.second.second;
+            if (cost > currcost[x][y]) continue;
            //check the value of grid[x][y]to whoom it is one
            int index=-1;
             for(auto dir: direction){
