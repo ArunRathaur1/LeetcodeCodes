@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0419-battleships-in-a-board) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -797,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
