@@ -1,11 +1,20 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
-        int min=0;
-        int n=nums.size();
-        for(int i=0;i<n-1;i++){
-            if(nums[i]>nums[i+1])return nums[i+1];
+    int findMin(vector<int>& ar) {
+        int m=INT_MAX;
+        int right=ar.size()-1;
+        int left=0;
+        while(left<=right){
+            int mid=(left+right)/2;
+            if(ar[left]<=ar[mid]){
+                m=min(ar[left],m);
+                left=mid+1;
+            }
+            else{
+                m=min(ar[mid],m);
+                right=mid-1;
+            }
         }
-        return nums[0];
+        return m;
     }
 };
