@@ -1,0 +1,33 @@
+class Solution {
+public:
+    int firstCompleteIndex(vector<int>& arr, vector<vector<int>>& mat) {
+        int row=mat.size();
+        int col=mat[0].size();
+        vector<int>frqrow(row,0);
+        vector<int>frqcol(col,0);
+        map<int,pair<int,int>>m;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                m[mat[i][j]]={i,j};
+            }
+        }
+        int newvalue=0;
+        int flag=0;
+        for(int i=0;i<row*col;i++){
+            pair<int,int>index=m[arr[i]];
+            arr[i]=newvalue;
+            newvalue++;
+            int r=index.first;
+            int c=index.second;
+            frqrow[r]++;
+            frqcol[c]++;
+            if(frqrow[r]==col){
+              return i;
+            }
+            if(frqcol[c]==row){
+               return i;
+            }
+        }
+        return -1;
+    }
+};
