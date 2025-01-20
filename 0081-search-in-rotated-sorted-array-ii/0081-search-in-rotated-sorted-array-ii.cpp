@@ -5,8 +5,10 @@ public:
        int right=nums.size()-1;
        while(left<=right){
         int mid=(left+right)/2;
-        while(left<mid&& nums[mid]==nums[left])left++;
-        while(right>mid&& nums[mid]==nums[right])right--;
+        while(left<mid&& nums[mid]==nums[left] && right>mid&& nums[mid]==nums[right]){
+            left++;
+            right--;
+        }
         if(nums[mid]==target)return true;
         cout<<mid<<endl;
         if(nums[mid]>=nums[left]){
