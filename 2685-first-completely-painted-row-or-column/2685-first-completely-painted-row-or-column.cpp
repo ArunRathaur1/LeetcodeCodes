@@ -5,7 +5,7 @@ public:
         int col=mat[0].size();
         vector<int>frqrow(row,0);
         vector<int>frqcol(col,0);
-        map<int,pair<int,int>>m;
+        unordered_map<int,pair<int,int>>m;
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
                 m[mat[i][j]]={i,j};
