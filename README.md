@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0907-koko-eating-bananas) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
