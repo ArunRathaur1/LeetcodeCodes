@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
 | [0983-validate-stack-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0983-validate-stack-sequences) |
 | [1025-minimum-cost-for-tickets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1025-minimum-cost-for-tickets) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
