@@ -4,7 +4,7 @@ public:
         int row=isWater.size();
         int col=isWater[0].size();
         vector<vector<int>>heights(row,vector<int>(col,INT_MAX));
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>q;
+        queue<pair<int,pair<int,int>>>q;
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
                 if(isWater[i][j]==1){
@@ -15,7 +15,7 @@ public:
         }
         vector<vector<int>>direction={{-1,0},{1,0},{0,-1},{0,1}};
         while(!q.empty()){
-           pair<int,pair<int,int>>x=q.top();
+           pair<int,pair<int,int>>x=q.front();
            q.pop();
            int height=x.first;
            int r=x.second.first;
