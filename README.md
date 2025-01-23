@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0486-predict-the-winner) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0907-koko-eating-bananas) |
