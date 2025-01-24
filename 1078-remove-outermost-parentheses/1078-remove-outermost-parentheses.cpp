@@ -8,7 +8,7 @@ public:
         for (int i = 0; i < l; i++) {
             if(s[i]=='('){
                 if(mark>=1){
-                    ans=ans+"(";
+                    ans+="(";
                 }
                 mark++;
             }
@@ -16,7 +16,7 @@ public:
             {
                 mark--;
                 if(mark>0)
-                    ans=ans+")";
+                    ans+=")";
             }  
         }
         return ans;
