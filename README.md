@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0952-word-subsets) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
+| [1078-remove-outermost-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0983-validate-stack-sequences) |
+| [1078-remove-outermost-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
