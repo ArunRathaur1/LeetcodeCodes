@@ -21,7 +21,7 @@ public:
                     st.push(s[i]);
                 }
             }
-            tem = tem + s[i];
+            tem.push_back(s[i]);
         }
         if(tem.length()>=2){
             ans = ans + tem.substr(1, tem.length() - 2);
