@@ -4,11 +4,14 @@ public:
         string s1="";
         int n=s.length();
         string ans="";
-        for(int i=n-1;i>=0;i--){
+        for(int i=0;i<n;i++){
             if(s[i]==' '){
                 if(s1.length()>0){
-                    reverse(s1.begin(),s1.end());
-                    ans=ans+s1+" ";
+                    if(ans=="")
+                        ans=s1;
+                    else{
+                        ans=s1+" "+ans;
+                    }
                     s1="";
                 }
             }
@@ -17,9 +20,12 @@ public:
             }
         }
         if(s1.length()>0){
-            reverse(s1.begin(),s1.end());
-            ans=ans+s1+" ";
+            if(ans=="")
+                        ans=s1;
+                    else{
+                        ans=s1+" "+ans;
+                    }
         }
-        return ans.substr(0,ans.length()-1);
+        return ans;
     }
 };
