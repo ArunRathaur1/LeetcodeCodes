@@ -10,18 +10,13 @@ public:
             st.insert(node);
             return true;
         }
-        bool p = true;
         for (auto i : graph[node]) {
             bool x = dfs(graph, i, st, visited);
             if (x == false)
                 return false;
-            p = p & x;
         }
-        if (p == true) {
-            st.insert(node);
-            return true;
-        }
-        return false;
+        st.insert(node);
+        return true;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int s = graph.size();
