@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
