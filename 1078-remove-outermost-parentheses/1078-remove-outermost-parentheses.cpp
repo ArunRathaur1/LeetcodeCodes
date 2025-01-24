@@ -4,28 +4,20 @@ public:
         int l = s.length();
         stack<char> st;
         string ans = "";
-        string tem = "";
-        int left = 0;
+        int mark = 0;
         for (int i = 0; i < l; i++) {
-            if (st.empty()) {
-                if (tem.length() >=2) {
-                    ans = ans + tem.substr(1, tem.length() - 2);
-                    tem = "";
+            if(s[i]=='('){
+                if(mark>=1){
+                    ans=ans+"(";
                 }
-                st.push(s[i]);
-            } else {
-                if (!st.empty() && st.top() == '(' && s[i] == ')') {
-                    st.pop();
-                }
-                else{
-                    st.push(s[i]);
-                }
+                mark++;
             }
-            tem.push_back(s[i]);
-        }
-        if(tem.length()>=2){
-            ans = ans + tem.substr(1, tem.length() - 2);
-            tem = "";
+            else if(s[i]==')')
+            {
+                mark--;
+                if(mark>0)
+                    ans=ans+")";
+            }  
         }
         return ans;
     }
