@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dfs(map<int,vector<int>>&adj,int node,set<int>&st,vector<bool>&visited){
+    bool dfs(vector<vector<int>>&adj,int node,unordered_set<int>&st,vector<bool>&visited){
         if(st.find(node)!=st.end())return true;
         if(visited[node]==true)return false;
         visited[node]=true;
@@ -20,24 +20,19 @@ public:
        return false;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        set<int>st;
-        map<int,vector<int>>m;
+        unordered_set<int>st;
         int s=graph.size();
         vector<bool>visited(s,false);
         for(int i=0;i<s;i++){
-            for(auto j: graph[i]){
-                m[i].push_back(j);
-            }
-        }
-        for(int i=0;i<s;i++){
             if(visited[i]==false){
-                bool x=dfs(m,i,st,visited);
+                bool x=dfs(graph,i,st,visited);
             }
         }
         vector<int>ar;
         for(auto i: st){
             ar.push_back(i);
         }
+        sort(ar.begin(),ar.end());
         return ar;
     }
 };
