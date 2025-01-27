@@ -1,39 +1,30 @@
 class Solution {
 public:
-    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
-        // Step 1: Initialize a distance matrix with INF (INT_MAX)
-        vector<vector<int>> dist(numCourses, vector<int>(numCourses, INT_MAX));
-
-        // Step 2: Set the distance of self-loops to 0
-        for (int i = 0; i < numCourses; ++i) {
-            dist[i][i] = 0;
-        }
-
-        // Step 3: Populate the matrix with direct edges from prerequisites
-        for (auto& prereq : prerequisites) {
-            dist[prereq[0]][prereq[1]] = 1; // Weight of each edge is 1
-        }
-
-        // Step 4: Floyd-Warshall Algorithm to compute shortest distances
-        for (int k = 0; k < numCourses; ++k) {
-            for (int i = 0; i < numCourses; ++i) {
-                for (int j = 0; j < numCourses; ++j) {
-                    if (dist[i][k] != INT_MAX && dist[k][j] != INT_MAX) {
-                        dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
-                    }
+    vector<bool> checkIfPrerequisite(int course, vector<vector<int>>& req, vector<vector<int>>& queries) {
+       vector<vector<int>>distance(course,vector<int>(course,INT_MAX));
+       for(auto i: req){
+            distance[i[0]][i[1]]=1;
+       } 
+       for(int i=0;i<course;i++){
+        for(int j=0;j<course;j++){
+            for(int k=0;k<course;k++){
+                if(distance[j][i]!=INT_MAX&& distance[i][k]!=INT_MAX){
+                    distance[j][k]=min(distance[j][k],distance[j][i]+distance[i][k]);
                 }
             }
         }
-
-        // Step 5: Answer the queries
-        vector<bool> result;
-        for (auto& query : queries) {
-            int u = query[0];
-            int v = query[1];
-            // If the shortest distance is not INT_MAX, a path exists
-            result.push_back(dist[u][v] != INT_MAX);
+       }
+        vector<bool>ans;
+        for(auto i:queries){
+            int first=i[0];
+            int second=i[1];
+            if(distance[first][second]!=INT_MAX){
+                ans.push_back(true);
+            }
+            else{
+                ans.push_back(false);
+            }
         }
-
-        return result;
+        return ans;
     }
 };
