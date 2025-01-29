@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1396-count-servers-that-communicate) |
