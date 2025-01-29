@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
