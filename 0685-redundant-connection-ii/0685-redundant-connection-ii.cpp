@@ -48,9 +48,6 @@ public:
         }
         int p=0;
         vector<int>cycleedgge;
-        for(auto i: e){
-            cout<<i[0]<<" "<<i[1]<<endl;
-        }
         for(int i=0;i<node;i++){
             if(edges[i][1]==-1)continue;
             int x1=ob.findparent(edges[i][0]);
