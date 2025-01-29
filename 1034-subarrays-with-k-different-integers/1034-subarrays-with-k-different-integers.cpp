@@ -3,7 +3,7 @@ public:
     int countsubarray(vector<int>&nums,int k){
         int count=0;
         int size=nums.size();
-            map<int,int>m;
+            unordered_map<int,int>m;
             int left=0;
             for(int j=0;j<size;j++){
                 m[nums[j]]++;
