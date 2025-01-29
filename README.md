@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1753-path-with-minimum-effort](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1755-defuse-the-bomb) |
 | [1876-map-of-highest-peak](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2439-longest-cycle-in-a-graph) |
@@ -858,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2047-find-a-peak-element-ii) |
@@ -948,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
