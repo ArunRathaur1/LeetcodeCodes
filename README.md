@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2107-find-unique-binary-string) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1396-count-servers-that-communicate](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1502-construct-k-palindrome-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
