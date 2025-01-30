@@ -67,7 +67,7 @@ public:
             }
         } 
         vector<int>componets=ob.componets();
-        map<int,int>m;
+        unordered_map<int,int>m;
         for(auto i: componets){
             m[i]=0;
         }
