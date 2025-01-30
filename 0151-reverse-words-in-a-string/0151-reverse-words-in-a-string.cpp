@@ -6,6 +6,7 @@ public:
         int right=0;
         int l=s.length();
         string ans="";
+        stack<string>st;
         while(right<l){
             if(s[right]==' '){
                 right++;
@@ -16,13 +17,18 @@ public:
                     right++;
                 }
                 if(ans==""){
-                    ans=s.substr(left,right-left);
+                    st.push(s.substr(left,right-left));
                 }
                 else{
-                    ans=s.substr(left,right-left)+" "+ans;
+                    st.push(s.substr(left,right-left));
                 }
             }
         }
+        while(st.size()>1){
+            ans+=(st.top()+" ");
+            st.pop();
+        }
+        ans+=st.top();
         return ans;
     }
 };
