@@ -10,22 +10,13 @@ public:
         m['D'] = 500;
         m['M'] = 1000;
         int size=s.length();
-        vector<int>ar(size,0);
-        vector<int>gar(size,0);
-        for(int i=0;i<size;i++){
-            ar[i]=m[s[i]];
-        }
-        gar[size-1]=ar[size-1];
-        for(int i=size-2;i>=0;i--){
-           gar[i]=max(gar[i+1],ar[i]);
-        }
         int ans=0;
         for(int i=0;i<size;i++){
-            if(gar[i]>ar[i]){
-                ans=ans-ar[i];
+            if(i+1<size&& m[s[i]]<m[s[i+1]]){
+                ans=ans-m[s[i]];
             }
             else{
-                ans=ans+ar[i];
+                ans=ans+m[s[i]];
             }
         }
         return ans;
