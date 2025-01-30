@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0038-count-and-say) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0073-set-matrix-zeroes) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
