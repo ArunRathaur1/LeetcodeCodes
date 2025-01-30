@@ -1,89 +1,117 @@
+class DSU {
+public:
+    vector<int> parent, rank;
+    
+    DSU(int n) {
+        parent.resize(n);
+        rank.resize(n, 1);
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+    }
+    
+    int find(int x) {
+        if (parent[x] != x) {
+            parent[x] = find(parent[x]);  // Path compression
+        }
+        return parent[x];
+    }
+    
+    void unite(int x, int y) {
+        int rootX = find(x);
+        int rootY = find(y);
+        if (rootX != rootY) {
+            if (rank[rootX] > rank[rootY]) {
+                parent[rootY] = rootX;
+            } else if (rank[rootX] < rank[rootY]) {
+                parent[rootX] = rootY;
+            } else {
+                parent[rootY] = rootX;
+                rank[rootX]++;
+            }
+        }
+    }
+};
+
 class Solution {
 public:
-    bool dfs(vector<int>& color, int node, vector<vector<int>>& adj, int parent, int colorValue) {
-        if (parent != -1 && color[node] == color[parent]) return false;
+    bool isBipartite(vector<vector<int>>& adj, int n, vector<int>& color) {
+        queue<int> q;
         
-        color[node] = colorValue;
-        
-        for (auto i : adj[node]) {
-            if (color[i] != -1 && color[i] == color[node]) return false;
+        for (int i = 0; i < n; i++) {
             if (color[i] == -1) {
-                if (!dfs(color, i, adj, node, 1 - colorValue)) return false;
+                q.push(i);
+                color[i] = 0;
+
+                while (!q.empty()) {
+                    int node = q.front();
+                    q.pop();
+
+                    for (int neighbor : adj[node]) {
+                        if (color[neighbor] == -1) {
+                            color[neighbor] = 1 - color[node];
+                            q.push(neighbor);
+                        } else if (color[neighbor] == color[node]) {
+                            return false;
+                        }
+                    }
+                }
             }
         }
         return true;
     }
 
-    void dfsnodes(vector<int>& nodes, vector<int>& visited, int node, vector<vector<int>>& adj) {
-        visited[node] = true;
-        nodes.push_back(node);
-        for (auto i : adj[node]) {
-            if (!visited[i]) {
-                dfsnodes(nodes, visited, i, adj);
+    int getMaxLayer(int start, vector<vector<int>>& adj, int n) {
+        queue<int> q;
+        vector<int> dist(n, -1);
+        
+        q.push(start);
+        dist[start] = 0;
+        int maxDist = 0;
+
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            for (int neighbor : adj[node]) {
+                if (dist[neighbor] == -1) {
+                    dist[neighbor] = dist[node] + 1;
+                    q.push(neighbor);
+                    maxDist = max(maxDist, dist[neighbor]);
+                }
             }
         }
+        return maxDist + 1;
     }
 
     int magnificentSets(int n, vector<vector<int>>& edges) {
+        vector<vector<int>> adj(n);
+        DSU dsu(n);
+
+        for (auto& edge : edges) {
+            int u = edge[0] - 1, v = edge[1] - 1; // Assuming 1-based input
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+            dsu.unite(u, v);
+        }
+
         vector<int> color(n, -1);
-        vector<vector<int>> adj(n);  // Correctly initialize adjacency list
+        if (!isBipartite(adj, n, color)) return -1;
 
-        int size = edges.size();
-        for (int i = 0; i < size; i++) {
-            adj[edges[i][0] - 1].push_back(edges[i][1] - 1);  // Assuming 1-based index
-            adj[edges[i][1] - 1].push_back(edges[i][0] - 1);
-        }
-
-        int colorValue = 1;
-        int parent = -1;
+        unordered_map<int, vector<int>> components;
         for (int i = 0; i < n; i++) {
-            if (color[i] == -1) {
-                if (!dfs(color, i, adj, parent, colorValue)) return -1;
-            }
+            components[dsu.find(i)].push_back(i);
         }
 
-        vector<bool> visited(n, false);
         int totalCount = 0;
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                vector<int> nodes;
-                vector<int> vis(n, false);
-                dfsnodes(nodes, vis, i, adj);
-
-                for (auto j : nodes) {
-                    visited[j] = true;
-                }
-
-                int maxCount = 0;
-                for (auto node : nodes) {
-                    int count = 0;
-                    queue<int> q;
-                    q.push(node);
-                    q.push(-1);
-                    vector<bool> localVisited(n, false);
-                    localVisited[node] = true;
-
-                    while (!q.empty()) {
-                        int t = q.front();
-                        q.pop();
-                        if (t == -1) {
-                            count++;
-                            if (!q.empty()) q.push(-1);
-                        } else {
-                            for (auto k : adj[t]) {
-                                if (!localVisited[k]) {
-                                    q.push(k);
-                                    localVisited[k] = true;
-                                }
-                            }
-                        }
-                    }
-                    maxCount = max(maxCount, count);
-                }
-                totalCount += maxCount;
+        for (auto& [root, nodes] : components) {
+            int maxLayer = 0;
+            for (int node : nodes) {
+                maxLayer = max(maxLayer, getMaxLayer(node, adj, n));
             }
+            totalCount += maxLayer;
         }
-
+        
         return totalCount;
     }
 };
