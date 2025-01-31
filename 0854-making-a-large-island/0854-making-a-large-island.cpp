@@ -1,7 +1,6 @@
 class Solution {
 public:
     int largestIsland(vector<vector<int>>& grid) {
-        vector<vector<pair<int, int>>> ar;
         int row = grid.size();
         if (row == 0) return 0;
         int col = grid[0].size();
@@ -9,83 +8,64 @@ public:
         vector<vector<int>> direction = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
         queue<pair<int, int>> q;
 
-        // Find all islands using BFS with 4-directional checks
+        // Assign unique IDs to islands and store their sizes
+        vector<vector<int>> islandID(row, vector<int>(col, -1));
+        vector<int> islandSize;
+        int maxsize = 0;
+
+        // Find all islands using BFS
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
                 if (!visited[i][j] && grid[i][j] == 1) {
                     q.push({i, j});
                     visited[i][j] = true;
-                    vector<pair<int, int>> pairs;
+                    int id = islandSize.size();
+                    int size = 0;
+
                     while (!q.empty()) {
-                        pair<int, int> tem = q.front();
+                        auto curr = q.front();
                         q.pop();
-                        int x = tem.first;
-                        int y = tem.second;
-                        pairs.push_back({x, y});
+                        int x = curr.first;
+                        int y = curr.second;
+                        islandID[x][y] = id;
+                        size++;
+
                         for (auto dir : direction) {
-                            int newx = x + dir[0];
-                            int newy = y + dir[1];
-                            if (newx >= 0 && newx < row && newy >= 0 && newy < col && !visited[newx][newy] && grid[newx][newy] == 1) {
-                                visited[newx][newy] = true;
-                                q.push({newx, newy});
+                            int nx = x + dir[0];
+                            int ny = y + dir[1];
+                            if (nx >= 0 && nx < row && ny >= 0 && ny < col && !visited[nx][ny] && grid[nx][ny] == 1) {
+                                visited[nx][ny] = true;
+                                q.push({nx, ny});
                             }
                         }
                     }
-                    ar.push_back(pairs);
+
+                    islandSize.push_back(size);
+                    maxsize = max(maxsize, size);
                 }
             }
         }
 
-        // Handle case where there are no 0s
-        bool allOnes = true;
+        // Check each 0 cell to see if flipping it can connect islands
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
                 if (grid[i][j] == 0) {
-                    allOnes = false;
-                    break;
-                }
-            }
-            if (!allOnes) break;
-        }
-        if (allOnes) {
-            return row * col;
-        }
+                    set<int> uniqueIslands;
+                    int total = 1; // Start with the flipped cell itself
 
-        // Create islandID matrix
-        vector<vector<int>> islandID(row, vector<int>(col, -1));
-        for (int i = 0; i < ar.size(); i++) {
-            for (auto& p : ar[i]) {
-                int x = p.first;
-                int y = p.second;
-                islandID[x][y] = i;
-            }
-        }
-
-        int maxsize = 0;
-        for (int i = 0; i < ar.size(); i++) {
-            maxsize = max(maxsize, (int)ar[i].size());
-        }
-
-        // Check each 0 cell
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                if (grid[i][j] == 0) {
-                    set<int> adjacentIslands;
                     for (auto dir : direction) {
-                        int ni = i + dir[0];
-                        int nj = j + dir[1];
-                        if (ni >= 0 && ni < row && nj >= 0 && nj < col && grid[ni][nj] == 1) {
-                            int islandIdx = islandID[ni][nj];
-                            if (islandIdx != -1) {
-                                adjacentIslands.insert(islandIdx);
+                        int nx = i + dir[0];
+                        int ny = j + dir[1];
+                        if (nx >= 0 && nx < row && ny >= 0 && ny < col && grid[nx][ny] == 1) {
+                            int id = islandID[nx][ny];
+                            if (uniqueIslands.find(id) == uniqueIslands.end()) {
+                                uniqueIslands.insert(id);
+                                total += islandSize[id];
                             }
                         }
                     }
-                    int current = 1; // the flipped cell
-                    for (int idx : adjacentIslands) {
-                        current += ar[idx].size();
-                    }
-                    maxsize = max(maxsize, current);
+
+                    maxsize = max(maxsize, total);
                 }
             }
         }
