@@ -10,15 +10,18 @@
  */
 class Solution {
 public:
+    void revser(ListNode*& head,ListNode*& currnode){
+        if( currnode==NULL)return;
+        ListNode* tem=currnode->next;
+        currnode->next=head;
+        head=currnode;
+        currnode=tem;
+        revser(head,currnode);
+    }
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev=NULL;
-        ListNode* curr=head;
-        while(curr!=NULL){
-            ListNode* tem=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=tem;
-        }
-        return prev;
+      ListNode* prev=NULL;
+      ListNode* curr=head;
+      revser(prev,curr);
+      return prev;
     }
 };
