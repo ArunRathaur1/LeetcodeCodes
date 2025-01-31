@@ -8,16 +8,14 @@
  */
 class Solution {
 public:
-    bool hasCycle(ListNode *head){
-        if(!head||!head->next)return false;
+    bool hasCycle(ListNode *head) {
+        if(head==NULL||head->next==NULL)return false;
+        ListNode* tem1=head;
         ListNode* tem2=head;
-        ListNode* tem=head;
-        while(tem2!=NULL && tem2!=NULL){
-            tem=tem->next;
-            if(!tem2||!tem2->next||!tem2->next->next)break;
+        while(tem1!=NULL&& tem2!=NULL&& tem2->next!=NULL){
+            tem1=tem1->next;
             tem2=tem2->next->next;
-            if(tem==tem2)
-            return true;
+            if(tem1==tem2)return true;
         }
         return false;
     }
