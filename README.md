@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
