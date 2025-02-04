@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3451-string-compression-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3451-string-compression-iii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 ## Two Pointers
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3195-separate-black-and-white-balls) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3291-find-if-array-can-be-sorted) |
 ## Geometry
 |  |
@@ -946,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Graph
 |  |
