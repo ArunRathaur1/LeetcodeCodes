@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3451-string-compression-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 ## Two Pointers
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3195-separate-black-and-white-balls) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Geometry
 |  |
 | ------- |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Graph
 |  |
