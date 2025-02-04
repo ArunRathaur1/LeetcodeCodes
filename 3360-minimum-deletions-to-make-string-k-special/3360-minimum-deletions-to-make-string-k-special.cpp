@@ -1,11 +1,10 @@
 class Solution {
 public:
     int solve(vector<int>&ar,int left,int right,int& k,vector<vector<int>>&dp){
-        if(left>=right)return 0;
+        if(left>=right||ar[right]-ar[left]<=k)return 0;
         if(dp[left][right]!=-1)return dp[left][right];
         int case1=0,case2=0;
         case1=ar[left]+solve(ar,left+1,right,k,dp);
-        if(ar[right]-k-ar[left]>=0)
         case2=ar[right]-k-ar[left]+solve(ar,left,right-1,k,dp);
         return dp[left][right]=min(case1,case2);
     }
