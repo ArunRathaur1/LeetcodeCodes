@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
+| [3567-convert-date-to-binary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2716-prime-subtraction-operation) |
 | [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
 | ------- |
