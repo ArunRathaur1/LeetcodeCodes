@@ -10,19 +10,15 @@ public:
         return dp[left][right]=min(case1,case2);
     }
     int minimumDeletions(string word, int k) {
-        unordered_map<char,int>m;
+        vector<int>ar(26,0);
         int l=word.length();
         for(int i=0;i<l;i++){
-            m[word[i]]++;
-        }
-        vector<int>ar;
-        for(auto i: m){
-            ar.push_back(i.second);
+            ar[word[i]-'a']++;
         }
         sort(ar.begin(),ar.end());
         vector<vector<int>>dp(26,vector<int>(26,-1));
         int left=0;
-        int right=ar.size()-1;
+        int right=25;
         int c=solve(ar,left,right,k,dp);
         return c;
     }
