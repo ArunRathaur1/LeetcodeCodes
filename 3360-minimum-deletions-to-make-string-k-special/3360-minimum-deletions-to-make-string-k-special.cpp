@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(vector<int>&ar,int left,int right,int k,vector<vector<int>>&dp){
+    int solve(vector<int>&ar,int left,int right,int& k,vector<vector<int>>&dp){
         if(left>=right)return 0;
         if(dp[left][right]!=-1)return dp[left][right];
         int case1=0,case2=0;
