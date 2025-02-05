@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 | [3567-convert-date-to-binary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3567-convert-date-to-binary) |
+| [3684-substring-matching-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3684-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3684-substring-matching-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3684-substring-matching-pattern) |
 ## Monotonic Stack
 |  |
 | ------- |
