@@ -7,7 +7,6 @@ public:
        for(int i=0;i<l;i++){
             char curr='a';
             while(target[i]!=curr){
-                cout<<cs+curr<<" ";
                 st.push_back(cs+curr);
                 curr++;
             }
