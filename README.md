@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3451-string-compression-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 | [3567-convert-date-to-binary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3567-convert-date-to-binary) |
 | [3634-find-mirror-score-of-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3634-find-mirror-score-of-a-string) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-maximum-points-after-enemy-battles](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
