@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& q) {
-        map<int,int>freq;
-        map<int,int>ball;
+        unordered_map<int,int>freq;
+        unordered_map<int,int>ball;
         vector<int>ans;
         int l=q.size();
         for(int i=0;i<l;i++){
