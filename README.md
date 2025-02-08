@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2434-design-a-number-container-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2434-design-a-number-container-system) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
+| [2434-design-a-number-container-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2434-design-a-number-container-system) |
 ## Iterator
 |  |
 | ------- |
@@ -1067,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
