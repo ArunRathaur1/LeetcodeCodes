@@ -9,7 +9,6 @@ public:
     void change(int index, int number) {
         if(m1.find(index)!=m1.end()){
             m2[m1[index]].erase(index);
-            if(m2[m1[index]].size()==0)m2.erase(m1[index]);
         }
         m1[index]=number;
         m2[number].insert(index);
@@ -17,6 +16,7 @@ public:
     
     int find(int number) {
         if(m2.find(number)!=m2.end()){
+            if(m2[number].size()==0)return -1;
             return *m2[number].begin();
         }
         return -1;
