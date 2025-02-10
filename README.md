@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3447-clear-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3634-find-mirror-score-of-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3634-find-mirror-score-of-a-string) |
