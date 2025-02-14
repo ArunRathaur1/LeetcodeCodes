@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0560-subarray-sum-equals-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2032-largest-odd-number-in-string) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2434-design-a-number-container-system) |
 ## Iterator
 |  |
@@ -1148,4 +1152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0148-sort-list) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
