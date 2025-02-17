@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0952-word-subsets) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1078-remove-outermost-parentheses) |
+| [1160-letter-tile-possibilities](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1250-longest-common-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2107-find-unique-binary-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1034-subarrays-with-k-different-integers) |
+| [1160-letter-tile-possibilities](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1160-letter-tile-possibilities) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1364-tuple-with-same-product](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1364-tuple-with-same-product) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1034-subarrays-with-k-different-integers) |
+| [1160-letter-tile-possibilities](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1502-construct-k-palindrome-strings) |
