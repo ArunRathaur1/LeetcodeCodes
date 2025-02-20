@@ -24,14 +24,21 @@ public:
         //     if(st.find(com[i])==st.end())return com[i];
         // }
         // return "";
-        int length=nums[0].length();
-        unordered_set<string>st;
-        for(auto i: nums)st.insert(i);
-        for(int i=0;i<pow(2,length);i++){
-            std::bitset<32>s1(i);//converting to bitset
-            string s=s1.to_string().substr(32-length,length);
-            if(st.find(s)==st.end())return s;
-        }
-        return "";
+
+
+
+
+
+        //code2 approach is to find the combiation and comare with the exsiting one
+        //if found then create new by using bitset
+                int length=nums[0].length();
+                unordered_set<string>st;
+                for(auto i: nums)st.insert(i);
+                for(int i=0;i<pow(2,length);i++){
+                    std::bitset<32>s1(i);//converting to bitset
+                    string s=s1.to_string().substr(32-length,length);
+                    if(st.find(s)==st.end())return s;
+                }
+                return "";
     }
 };
