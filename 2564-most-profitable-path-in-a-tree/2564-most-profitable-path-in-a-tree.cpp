@@ -14,8 +14,8 @@ public:
     static int dfs_sum(int i, int dist, int prev, vector<int>& amount) {
         int alice=0;
 
-        if (dist < Bob[i]) alice=amount[i];  // Alice gets full amount
-        else if (dist == Bob[i]) alice= amount[i]/2;  // Split with Bob
+        if (dist < Bob[i]) alice=amount[i]; 
+        else if (dist == Bob[i]) alice= amount[i]/2;  
 
         bool isLeaf=1;// set isLeaf flag
         int maxLeafSum=INT_MIN;
