@@ -1,6 +1,6 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
-        double q=1e9+7;
+        int q=1000000007;
         int currsum=0;
         int evencount=1;
         int oddcount=0;
@@ -9,11 +9,11 @@ class Solution {
         for(int i=0;i<p;i++){
             currsum=currsum+arr[i];
             if(currsum%2==0){
-                ans=(int)((ans+oddcount)%q);
+                ans=((ans+oddcount)%q);
                 evencount++;
             }
             else{
-                ans=(int)((ans+evencount)%q);
+                ans=((ans+evencount)%q);
                 oddcount++;
             }
         }
