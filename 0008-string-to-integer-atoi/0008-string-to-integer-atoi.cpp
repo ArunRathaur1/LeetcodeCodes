@@ -1,30 +1,31 @@
 class Solution {
 public:
     int  myAtoi(string s) {
-        long long flag=0;
+        int sign=0;
         long long number=0;
-        long long n=s.length();
-        char ch='+';
-        for(long long i=0;i<n;i++){
-            if(s[i]==' '&& flag==0)continue;
-            else if((s[i]=='-'||s[i]=='+')&& flag==0){
-                ch=s[i];
-                flag=1;
-            }
-            else if(s[i]>='0'&& s[i]<='9'){
-                flag=1;
-                number=number*10+(s[i]-'0');
-                if(number>INT_MAX&& ch=='+')return INT_MAX;
-                else if(number>INT_MAX&& ch=='-')return INT_MIN;
-            }
-            else{
-                break;
-            }
+        int index=0;
+        while(s[index]==' ')index++;
+        if(s[index]=='-'){
+            sign=1;
+            index++;
         }
-        if(ch=='-'){
+        else if(s[index]=='+'){
+            index++;
+        }
+        int l=s.length();
+        for(int i=index;i<l;i++){
+            if(s[i]>='0'&& s[i]<='9'){
+                number=number*10+1LL*(s[i]-'0');
+            }
+            else break; 
+            if(number*-1<=(long long)INT_MIN&& sign==1)return INT_MIN;
+            if(number>=(long long)INT_MAX&& sign==0)return INT_MAX;
+            cout<<number<<endl;
+        }
+        if(sign==1){
+            cout<<"h";
             return -1*number;
         }
         return number;
-        
     }
 };
