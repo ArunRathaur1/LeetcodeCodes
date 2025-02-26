@@ -1,34 +1,31 @@
-void backtrack(int n, int leftCount, int rightCount, vector<char>& output,
-               vector<string>& result) {
-    // Base case where count of left and right braces is "n"
-    if (leftCount >= n && rightCount >= n) {
-        // Join the array elements into a string without any separators.
-        string outputStr(output.begin(), output.end());
-        result.push_back(outputStr);
-    }
-
-    // Case where we can still append left braces
-    if (leftCount < n) {
-        output.push_back('(');
-        backtrack(n, leftCount + 1, rightCount, output, result);
-        output.pop_back();
-    }
-
-    // Case where we append right braces if the current count of right braces is
-    // less than the count of left braces
-    if (rightCount < leftCount) {
-        output.push_back(')');
-        backtrack(n, leftCount, rightCount + 1, output, result);
-        output.pop_back();
-    }
-}
-
 class Solution {
 public:
+    vector<string> generate(int open,int close){
+        if(open==0&& close==0)return {""};
+        vector<string>ans;
+        if(open==close){
+            vector<string>q=generate(open-1,close);
+            for(int i=0;i<q.size();i++){
+                ans.push_back(q[i]+")");
+            }
+        }
+        else{
+            if(open>0){
+                vector<string>q=generate(open-1,close);
+                for(int i=0;i<q.size();i++){
+                    ans.push_back(q[i]+")");
+                }
+            }
+            if(close>0){
+                vector<string>q=generate(open,close-1);
+                for(int i=0;i<q.size();i++){
+                    ans.push_back(q[i]+"(");
+                }
+            }
+        }
+        return ans;
+    }
     vector<string> generateParenthesis(int n) {
-        vector<string> result;
-        vector<char> output;
-        backtrack(n, 0, 0, output, result);
-        return result;
+        return generate(n,n);
     }
 };
