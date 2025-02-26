@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0090-subsets-ii) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
