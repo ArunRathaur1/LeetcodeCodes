@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lenLongestFibSubseq(vector<int>& arr) {
-        set<int>st;
+        unordered_set<int>st;
         for(auto i: arr)st.insert(i);
         int n=arr.size();
         int maxcount=0;
