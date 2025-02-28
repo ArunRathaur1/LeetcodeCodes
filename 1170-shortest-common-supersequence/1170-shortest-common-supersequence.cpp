@@ -1,6 +1,7 @@
 class Solution {
 public:
-    string longest(string str1,string str2){
+   
+    string shortestCommonSupersequence(string str1, string str2) {
         int l1=str1.length();
         int l2=str2.length();
         vector<vector<int>>dp(l1+1,vector<int>(l2+1,0));
@@ -42,9 +43,5 @@ public:
         }
         reverse(longest.begin(),longest.end());
         return longest;
-    }
-    string shortestCommonSupersequence(string str1, string str2) {
-        string p=longest(str1,str2);
-        return p;
     }
 };
