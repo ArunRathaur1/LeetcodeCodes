@@ -7,8 +7,6 @@ public:
         }
         if(index>=n)return;
         if(sum>target)return ;
-        cout<<sum<<endl;
-       
         for(int i=index;i<n;i++){
             if(i>index&& nums[i]==nums[i-1])continue;
             tem.push_back(nums[i]);
