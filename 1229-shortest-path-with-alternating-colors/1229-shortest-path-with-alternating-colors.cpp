@@ -1,46 +1,46 @@
 class Solution {
 public:
     vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& redEdges, vector<vector<int>>& blueEdges) {
-        vector<int> red_dist(n, INT_MAX), blue_dist(n, INT_MAX);
-        vector<vector<pair<int, char>>> adj(n);
-
-        // Construct adjacency list
-        for (auto &edge : redEdges)
-            adj[edge[0]].push_back({edge[1], 'r'});
-        for (auto &edge : blueEdges)
-            adj[edge[0]].push_back({edge[1], 'b'});
-
-        queue<pair<int, char>> q;
-        q.push({0, 'r'}); // Start from node 0 with red edge
-        q.push({0, 'b'}); // Start from node 0 with blue edge
-        red_dist[0] = 0;
-        blue_dist[0] = 0;
-
-        while (!q.empty()) {
-            auto [node, lastColor] = q.front();
+        vector<vector<pair<int,char>>>adj(n);
+        for(int i=0;i<redEdges.size();i++){
+            adj[redEdges[i][0]].push_back({redEdges[i][1],'r'});
+        }
+        for(int i=0;i<blueEdges.size();i++){
+            adj[blueEdges[i][0]].push_back({blueEdges[i][1],'b'});
+        }
+        vector<int>red_distance(n,INT_MAX);
+        vector<int>blue_distance(n,INT_MAX);
+        queue<pair<int,char>>q;
+        q.push({0,'r'});
+        q.push({0,'b'});
+        red_distance[0]=0;
+        blue_distance[0]=0;
+        while(!q.empty()){
+            pair<int,char>p=q.front();
             q.pop();
-            int cur_dist = (lastColor == 'r') ? red_dist[node] : blue_dist[node];
-
-            for (auto &[neighbor, edgeColor] : adj[node]) {
-                if (lastColor != edgeColor) { // Only traverse alternating colors
-                    if (edgeColor == 'r' && red_dist[neighbor] > cur_dist + 1) {
-                        red_dist[neighbor] = cur_dist + 1;
-                        q.push({neighbor, 'r'});
-                    } 
-                    else if (edgeColor == 'b' && blue_dist[neighbor] > cur_dist + 1) {
-                        blue_dist[neighbor] = cur_dist + 1;
-                        q.push({neighbor, 'b'});
+            int node=p.first;
+            int color=p.second;
+            int distance=color=='r'?red_distance[node]:blue_distance[node];
+            for(auto i: adj[node]){
+                if(i.second!=color){
+                    if(i.second=='r'&&red_distance[i.first]>distance+1){
+                        red_distance[i.first]=distance+1;
+                        q.push({i.first,i.second});
+                    }
+                    else if(i.second=='b'&&blue_distance[i.first]>distance+1){
+                        blue_distance[i.first]=distance+1;
+                        q.push({i.first,i.second});
                     }
                 }
             }
         }
-
-        // Compute final result
-        vector<int> result(n);
-        for (int i = 0; i < n; i++) {
-            int minDist = min(red_dist[i], blue_dist[i]);
-            result[i] = (minDist == INT_MAX) ? -1 : minDist;
+        vector<int>ans(n);
+        for(int i=0;i<n;i++){
+            int p=min(red_distance[i],blue_distance[i]);
+            if(p==INT_MAX)
+                p=-1;
+            ans[i]=p;
         }
-        return result;
+        return ans;
     }
 };
