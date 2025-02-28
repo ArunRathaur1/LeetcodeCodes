@@ -19,25 +19,24 @@ class Solution(object):
                     dp[i][j]=dp[i-1][j-1]+1
                 else:
                     dp[i][j]=max(dp[i][j-1],dp[i-1][j])
-        ans=""
+        ans=[]
         d=l1
         r=l2
         while(d>0 and r>0):
             if str1[d-1]==str2[r-1]:
-                ans+=str1[d-1]
+                ans.append(str1[d-1])
                 d=d-1
                 r=r-1
             elif dp[d][r-1]>dp[d-1][r]:
-                ans+=str2[r-1]
+                ans.append(str2[r-1])
                 r=r-1
             else:
-                ans+=str1[d-1]
+                ans.append(str1[d-1])
                 d=d-1
         while(d>0):
-            ans+=str1[d-1]
+            ans.append(str1[d-1])
             d=d-1
         while(r>0):
-            ans+=str2[r-1]
+            ans.append(str2[r-1])
             r=r-1
-        ans=ans[::-1]
-        return ans
+        return "".join(reversed(ans))
