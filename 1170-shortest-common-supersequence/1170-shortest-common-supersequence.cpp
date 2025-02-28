@@ -19,29 +19,28 @@ public:
         int r=l2;
         while(d>0&& r>0){
             if(str1[d-1]==str2[r-1]){
-                longest=longest+str1[d-1];
+                longest+=str1[d-1];
                 d=d-1;
                 r=r-1;
             }
             else if(dp[d][r-1]>=dp[d-1][r]){
-                longest=longest+str2[r-1];
+                longest+=str2[r-1];
                 r=r-1;
             }
             else{
-                longest=longest+str1[d-1];
+                longest+=str1[d-1];
                 d=d-1;
             }
         }
         while(d>0){
-            longest=longest+str1[d-1];
+            longest+=str1[d-1];
             d--;
         }
         while(r>0){
-            longest=longest+str2[r-1];
+            longest+=str2[r-1];
             r--;
         }
         reverse(longest.begin(),longest.end());
-        cout<<longest<<endl;
         return longest;
     }
     string shortestCommonSupersequence(string str1, string str2) {
