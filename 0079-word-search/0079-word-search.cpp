@@ -1,26 +1,33 @@
 class Solution {
 public:
-    bool find(vector<vector<char>>&board,string word,int i,int j,int row,int col,int index,int length){
-        if(index==length)return true;
-        if(i>=row||j>=col||i<0||j<0||board[i][j]=='#'||word[index]!=board[i][j])return false;
-        char tem=board[i][j];
-        board[i][j]='#';
-        bool value=
-            find(board,word,i+1,j,row,col,index+1,length)||
-            find(board,word,i-1,j,row,col,index+1,length)||
-            find(board,word,i,j-1,row,col,index+1,length)||
-            find(board,word,i,j+1,row,col,index+1,length);
-        board[i][j]=tem;
-      return value;
+    vector<vector<int>>direction={{-1,0},{0,-1},{0,1},{1,0}};
+    bool exist(vector<vector<char>>&board,string word,int row,int col,int i,int j,vector<vector<bool>>&visited,int index){
+        if(i<0||i>=row||j<0||j>=col||visited[i][j]==true)return false;
+        if(index==word.length())return true;
+        visited[i][j]=true;
+        for(int k=0;k<4;k++){
+            int newx=i+direction[k][0];
+            int newy=j+direction[k][1];
+            if(newx>=row||newy>=col||newy<0||newx<0)continue;
+            if(board[newx][newy]==word[index]){
+                bool result=exist(board,word,row,col,newx,newy,visited,index+1);
+                if(result==true)return true;
+            }
+        }
+        visited[i][j]=false;
+        return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
         int row=board.size();
         int col=board[0].size();
-        int length=word.length();
+        vector<vector<bool>>visited(row,vector<bool>(col,false));
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
-                bool ans=find(board,word,i,j,row,col,0,length);
-                if(ans)return true;
+                if(word[0]==board[i][j])
+               {
+                bool result=exist(board,word,row,col,i,j,visited,1);
+                if(result)return result;
+               } 
             }
         }
         return false;
