@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1558-course-schedule-iv) |
