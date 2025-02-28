@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1250-longest-common-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1170-shortest-common-supersequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
