@@ -1,25 +1,37 @@
 class Solution {
 public:
-    bool canform(string s,vector<string>&wordDict,int index,int n,int l,vector<int>&dp){
-        if(index==n)return true;
-        if(index>n)return false;
+    bool check(string s ,int index, string word){
+        int p=0;
+        int x=s.length();
+        while(index<x&&s[index]==word[p]){
+            p++;
+            index++;
+        }
+        if(p==word.length())return true;
+        return false;
+    }
+    bool possible(string s,int n,int length,vector<string>&wordDict,int index,vector<int>&dp){
+        if(index==n){
+            return true;
+        }
         if(dp[index]!=-1)return dp[index];
-        bool output=false;
-        for(int i=0;i<l;i++){
-            int length=wordDict[i].length();
-            if(length<=n-index&& s.substr(index,length)==wordDict[i]){
-                 dp[index]=canform(s,wordDict,index+length,n,l,dp);
-                 if(dp[index]==true){
+        for(int i=0;i<length;i++){
+            if(check(s,index,wordDict[i])){
+                bool canbreak=possible(s,n,length,wordDict,index+wordDict[i].length(),dp);
+                if(canbreak){
+                    dp[index]=1;
                     return true;
-                 }
+                }
             }
         }
-        return dp[index]=false;
+        dp[index]=0;
+        return false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        int l=wordDict.size();
         int n=s.length();
-        vector<int>dp(s.length(),-1);
-        return canform(s,wordDict,0,n,l,dp);
+        int length=wordDict.size();
+        int index=0;
+        vector<int>dp(n+1,-1);
+        return possible(s,n,length,wordDict,index,dp);
     }
 };
