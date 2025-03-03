@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2551-apply-operations-to-an-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2551-apply-operations-to-an-array) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2292-counting-words-with-a-given-prefix) |
