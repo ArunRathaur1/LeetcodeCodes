@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0843-binary-trees-with-factors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0792-binary-search) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0843-binary-trees-with-factors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0843-binary-trees-with-factors) |
 | [0854-making-a-large-island](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
