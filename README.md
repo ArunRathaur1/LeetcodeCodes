@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2032-largest-odd-number-in-string) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2432-number-of-zero-filled-subarrays) |
