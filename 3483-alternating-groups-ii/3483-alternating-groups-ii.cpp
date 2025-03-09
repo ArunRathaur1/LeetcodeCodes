@@ -4,9 +4,8 @@ public:
         int count=1;
         int ans=0;
         int right=1;
-        int m=colors.size();
-        colors.insert(colors.end(),colors.begin(),colors.end());
-        int n=m+k-1;
+        colors.insert(colors.end(),colors.begin(),colors.begin()+k-1);
+        int n=colors.size();
         while(right<n){
             if(colors[right-1]!=colors[right]){
                 right++;
