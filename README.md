@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3567-convert-date-to-binary) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3634-find-mirror-score-of-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3634-find-mirror-score-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3684-substring-matching-pattern) |
 ## Dynamic Programming
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3634-find-mirror-score-of-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3634-find-mirror-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
