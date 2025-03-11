@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0234-palindrome-linked-list) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0225-implement-stack-using-queues) |
