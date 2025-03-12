@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0072-edit-distance) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0155-min-stack) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0049-group-anagrams) |
@@ -1064,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
