@@ -4,7 +4,6 @@ public:
         int l=nums.size();
         vector<int>ans;
         deque<int>next;
-        int j=0;
         for(int i=0;i<k;i++){
             while(!next.empty()&& nums[next.back()]<nums[i]){
                 next.pop_back();
@@ -13,7 +12,7 @@ public:
         }
         for(int i=k;i<l;i++){
             ans.push_back(nums[next.front()]);
-            while(!next.empty()&&next.front()<=(i-k)){
+            while(!next.empty()&& next.front()<=(i-k)){
                 next.pop_front();
             }
             while(!next.empty()&& nums[next.back()]<nums[i]){
