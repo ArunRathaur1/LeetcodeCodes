@@ -13,7 +13,7 @@ public:
         }
         for(int i=k;i<l;i++){
             ans.push_back(nums[next.front()]);
-            if(!next.empty()&&next.front()<=(i-k)){
+            while(!next.empty()&&next.front()<=(i-k)){
                 next.pop_front();
             }
             while(!next.empty()&& nums[next.back()]<nums[i]){
