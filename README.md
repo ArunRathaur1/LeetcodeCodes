@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0402-remove-k-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0735-asteroid-collision) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
