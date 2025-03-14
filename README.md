@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1078-remove-outermost-parentheses) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
+| [0937-online-stock-span](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0937-online-stock-span) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1292,5 +1295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
