@@ -1,13 +1,13 @@
 class Solution {
 public:
-    bool checkfreq(map<char,int>ar){
-        for(auto i:ar){
-            if(i.second>=2)return true;
+    bool checkfreq(vector<int>ar){
+        for(int i=0;i<200;i++){
+            if(ar[i]>=2)return true;
         }
         return false;
     }
     int lengthOfLongestSubstring(string s) {
-       map<char,int>freq;
+        vector<int>freq(200,0);
        int l=s.length();
        int left=0;
        int ans=0;
