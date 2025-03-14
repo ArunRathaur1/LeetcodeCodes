@@ -3,7 +3,9 @@ public:
     bool possbile(vector<int>nums,int balls,int op){
         int count=0;
         for(int i=0;i<nums.size();i++){
-            count=count+((nums[i]-1)/balls);
+            if(nums[i]%balls==0)count=count+nums[i]/balls-1;
+            else
+            count=count+nums[i]/balls;
             if(count>op)return false;
         }
         return true;
