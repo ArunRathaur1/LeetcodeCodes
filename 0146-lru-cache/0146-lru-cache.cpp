@@ -2,18 +2,18 @@ class LRUCache {
 public:
     map<int,list<pair<int,int>>::iterator>m;
     list<pair<int,int>>lr;
-    int size;
+    int size; 
     int count=0;
     LRUCache(int capacity) {
-       size=capacity;
+        size=capacity;
     }
     
     int get(int key) {
         if(m.find(key)!=m.end()){
             auto it=m[key];
-            int x=it->second;
+            int value=it->second;
             lr.splice(lr.begin(),lr,it);
-            return x;
+            return value;
         }
         return -1;
     }
@@ -24,20 +24,18 @@ public:
             lr.splice(lr.begin(),lr,m[key]);
         }
         else if(count<size){
-            pair<int,int>p={key,value};
-            lr.push_front(p);
+            pair<int,int>tem={key,value};
+            lr.push_front(tem);
             m[key]=lr.begin();
             count++;
         }
         else{
-            pair<int,int>p=lr.back();
+            pair<int,int>tem=lr.back();
             lr.pop_back();
-            pair<int,int>n={key,value};
-            m.erase(p.first);
-            lr.push_front(n);
+            m.erase(tem.first);
+            lr.push_front({key,value});
             m[key]=lr.begin();
         }
-        
     }
 };
 
