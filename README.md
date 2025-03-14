@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0451-sort-characters-by-frequency) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0496-next-greater-element-i) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1046-max-consecutive-ones-iii) |
