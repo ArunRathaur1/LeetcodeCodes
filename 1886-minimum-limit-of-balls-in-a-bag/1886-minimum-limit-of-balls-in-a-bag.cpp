@@ -1,21 +1,22 @@
 class Solution {
 public:
-    bool check(vector<int>&nums,int op,int mid){
+    bool possbile(vector<int>nums,int balls,int op){
+        int count=0;
         for(int i=0;i<nums.size();i++){
-            op=op-(nums[i]-1)/mid;
-            if(op<0)return false;
+            count=count+((nums[i]-1)/balls);
+            if(count>op)return false;
         }
         return true;
     }
-    int minimumSize(vector<int>& nums, int op) {
+    int minimumSize(vector<int>& nums, int maxOperations) {
+        int right=*max_element(nums.begin(),nums.end());
         int left=1;
-        int right=*std::max_element(nums.begin(),nums.end());
         int ans=right;
-        while(left<right){
+        while(left<=right){
             int mid=(left+right)/2;
-            if(check(nums,op,mid)){
-                right=mid;
+            if(possbile(nums,mid,maxOperations)){
                 ans=mid;
+                right=mid-1;
             }
             else{
                 left=mid+1;
