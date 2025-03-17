@@ -1,14 +1,11 @@
 class Solution {
 public:
     bool possible(int mid, vector<int>& nums, int k) {
-        int count = 0;
-        int prevTaken = -2; 
-        
+        int count = 0; 
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] <= mid) {
                 count++;
                 i++;
-                // prevTaken = i;
             }
             if (count >= k) return true;
         }
