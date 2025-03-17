@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool possbile(long long time,vector<int>ranks,long long cars,long long length){
+    bool possbile(long long time,vector<int>&ranks,long long cars,long long length){
         long long count=0;
         for(long long i=0;i<length;i++){
             count=count+1LL*sqrt(time/ranks[i]);
