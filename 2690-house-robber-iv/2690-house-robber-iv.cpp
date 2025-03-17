@@ -2,12 +2,13 @@ class Solution {
 public:
     bool possible(int mid, vector<int>& nums, int k) {
         int count = 0;
-        int prevTaken = -2; // Tracks last chosen house index
+        int prevTaken = -2; 
         
         for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] <= mid && (i - prevTaken > 1)) {
+            if (nums[i] <= mid) {
                 count++;
-                prevTaken = i; // Update last chosen house index
+                i++;
+                // prevTaken = i;
             }
             if (count >= k) return true;
         }
