@@ -35,13 +35,10 @@ public:
                 ans = ans + l - max({a, b, c});
                 if (s[left] == 'a') {
                     counta--;
-                    a = -1;
                 } else if (s[left] == 'b') {
                     countb--;
-                    b = -1;
                 } else if (s[left] == 'c') {
                     countc--;
-                    c = -1;
                 }
                 left++;
             }
