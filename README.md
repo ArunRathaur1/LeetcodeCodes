@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1294-range-frequency-queries) |
 | [1364-tuple-with-same-product](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1755-defuse-the-bomb) |
 | [2001-jump-game-vii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2001-jump-game-vii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1223-graph-connectivity-with-threshold) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1477-product-of-the-last-k-numbers) |
