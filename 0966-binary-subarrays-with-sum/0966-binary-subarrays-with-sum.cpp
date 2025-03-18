@@ -1,18 +1,24 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
+    int sumlessthanK(vector<int>&nums,int goal){
+        int sum=0;
+        int left=0;
         int l=nums.size();
-        unordered_map<int,int>m;
-        int prefix=0;
         int ans=0;
-        m[0]=1;
         for(int i=0;i<l;i++){
-            prefix=prefix+nums[i];
-            if(m.find(prefix-goal)!=m.end()){
-                ans=ans+m[prefix-goal];
+            sum=sum+nums[i];
+            while(left<=i&& sum>goal){
+                sum=sum-nums[left];
+                left++;
             }
-            m[prefix]++;
-        } 
-        return ans;   
+            ans=ans+(i-left+1);
+        }
+        return ans;
+    }
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        int c1=sumlessthanK(nums,goal);
+        int c2=sumlessthanK(nums,goal-1);
+        cout<<c1<<" "<<c2<<endl;
+        return c1-c2;
     }
 };
