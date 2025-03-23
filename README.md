@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2001-jump-game-vii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1187,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
@@ -1234,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2439-longest-cycle-in-a-graph) |
 ## Linked List
