@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -962,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0854-making-a-large-island) |
@@ -1177,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0820-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
