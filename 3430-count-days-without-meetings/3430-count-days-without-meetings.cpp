@@ -1,6 +1,6 @@
 class Solution {
 public:
-    static bool cmp(vector<int>a,vector<int>b){
+    static bool cmp(const vector<int>&a,const vector<int>&b){
         return a[0]<b[0];
     }
     vector<vector<int>>mergerInvertal(vector<vector<int>>& ar){
