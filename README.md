@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0609-find-duplicate-file-in-system) |
 | [0843-binary-trees-with-factors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0843-binary-trees-with-factors) |
+| [0876-hand-of-straights](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0876-hand-of-straights) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0843-binary-trees-with-factors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0843-binary-trees-with-factors) |
 | [0854-making-a-large-island](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0854-making-a-large-island) |
+| [0876-hand-of-straights](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
+| [0876-hand-of-straights](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0876-hand-of-straights) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0843-binary-trees-with-factors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0843-binary-trees-with-factors) |
+| [0876-hand-of-straights](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0876-hand-of-straights) |
 | [0974-reorder-data-in-log-files](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0974-reorder-data-in-log-files) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1427-all-elements-in-two-binary-search-trees) |
