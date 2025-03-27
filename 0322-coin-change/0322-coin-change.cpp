@@ -15,7 +15,6 @@ public:
         return p;
     }
     int coinChange(vector<int>& coins, int amount) {
-        sort(coins.begin(),coins.end(),greater<int>());
         vector<int>dp(amount+1,-1);
         int s=coins.size();
         int x=coinsrequired(coins,amount,s,dp);
