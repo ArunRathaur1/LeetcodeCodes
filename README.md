@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
