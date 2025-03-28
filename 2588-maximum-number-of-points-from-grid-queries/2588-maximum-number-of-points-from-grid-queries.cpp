@@ -27,10 +27,10 @@ public:
                 for(auto d:dir){
                     int newx=temrow+d[0];
                     int newy=temcol+d[1];
-                    if (newx >= 0 && newy >= 0 && newx < row && newy < col && !visited[newx][newy]) {
-                        visited[newx][newy] = true;
-                        q.push({grid[newx][newy], {newx, newy}});
-                    }
+                    if(newx>=row||newy>=col||newx<0||newy<0||visited[newx][newy]==true)
+                    continue;
+                    q.push({grid[newx][newy],{newx,newy}});
+                    visited[newx][newy]=true;
                 }
             }
             ans[ar[index].second]=count;
