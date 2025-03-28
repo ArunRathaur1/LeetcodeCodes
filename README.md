@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0609-find-duplicate-file-in-system) |
+| [0678-valid-parenthesis-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0868-push-dominoes) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0843-binary-trees-with-factors](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0843-binary-trees-with-factors) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0937-online-stock-span) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0876-hand-of-straights) |
 | [1304-longest-happy-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/1304-longest-happy-string) |
