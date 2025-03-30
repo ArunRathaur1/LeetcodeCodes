@@ -2,15 +2,14 @@ class Solution {
 public:
     string removeKdigits(string num, int k) {
         stack<char>st;
-        int l=num.size();
-        for(int i=0;i<l;i++){
-            while(!st.empty()&&st.top()>num[i]&& k>0){
-                st.pop();
+        int n=num.size();
+        for(int i=0;i<n;i++){
+            while(!st.empty()&& st.top()>num[i]&&k>0){
                 k--;
+                st.pop();
             }
-            if(st.empty()&& num[i]=='0')continue;
+            if(st.empty()&&num[i]=='0')continue;
             st.push(num[i]);
-            
         }
         while(!st.empty()&& k>0){
             st.pop();
@@ -22,6 +21,6 @@ public:
             st.pop();
         }
         reverse(ans.begin(),ans.end());
-        return (ans.size()==0)?"0":ans;
+        return (ans.length()==0)?"0":ans;
     }
 };
