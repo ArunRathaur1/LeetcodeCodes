@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0678-valid-parenthesis-string) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0485-max-consecutive-ones) |
