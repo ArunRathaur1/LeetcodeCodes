@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3634-find-mirror-score-of-a-string](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3634-find-mirror-score-of-a-string) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Prefix Sum
 |  |
 | ------- |
