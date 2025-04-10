@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3210-count-beautiful-substrings-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/3567-convert-date-to-binary) |
 ## Sorting
