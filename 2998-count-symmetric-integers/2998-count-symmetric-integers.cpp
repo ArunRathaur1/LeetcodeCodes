@@ -1,14 +1,22 @@
 class Solution {
 public:
-    int countSymmetricIntegers(int low, int high, int ans = 0) {
-        for (int i = low; i <= high; i++) {
-            if (i < 100 && i % 11 == 0) ans++; // For 2-Digit Numbers
-            else if (1000 <= i && i < 10000) { // For 4-Digit Numbers
-                int left = i / 1000 + (i % 1000) / 100;
-                int right = (i % 100) / 10 + i % 10;
-                if (left == right) ans++;
-            }
+    bool symmetric(const string& p){
+        int n = p.length() / 2;
+        int left_sum = 0, right_sum = 0;
+        for (int i = 0; i < n; ++i) {
+            left_sum += p[i] - '0';
+            right_sum += p[i + n] - '0';
         }
-        return ans;
+        return left_sum == right_sum;
+    }
+
+    int countSymmetricIntegers(int low, int high) {
+        int count = 0;
+        for (int i = low; i <= high; ++i) {
+            string p = to_string(i);
+            if (p.length() % 2 == 0 && symmetric(p))
+                count++;
+        }
+        return count;
     }
 };
