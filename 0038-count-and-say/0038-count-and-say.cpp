@@ -7,8 +7,8 @@ public:
         string ans="";
         char current=p[0];
         int count=0;
-        for(int i=0;i<m;i++){
-            if(p[i]==current){
+        for(int i=0;i<=m;i++){
+            if(i<m&&p[i]==current){
                 count++;
             }
             else{
@@ -17,9 +17,6 @@ public:
                 count=1;
             }
         } 
-        if(count>0){
-            ans+=to_string(count)+current;
-        }
         return ans;
     }
 };
