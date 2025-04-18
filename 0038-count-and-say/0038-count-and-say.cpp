@@ -1,26 +1,25 @@
 class Solution {
 public:
-    string count(int n){
+    string countAndSay(int n) {
         if(n==1)return "1";
-        string p=count(n-1);
+        string p=countAndSay(n-1);
+        int m=p.length();
         string ans="";
-        int c=0;
-        char ch=p[0];
-        int l=p.length();
-        for(int i=0;i<l;i++){
-            if(ch==p[i]){
-                c++;
+        char current=p[0];
+        int count=0;
+        for(int i=0;i<m;i++){
+            if(p[i]==current){
+                count++;
             }
             else{
-                ans.append(to_string(c)+ch);
-                ch=p[i];
-                c=1;
+                ans+=to_string(count)+current;
+                current=p[i];
+                count=1;
             }
+        } 
+        if(count>0){
+            ans+=to_string(count)+current;
         }
-        ans.append(to_string(c)+ch);
         return ans;
-    }
-    string countAndSay(int n) {
-        return count(n);
     }
 };
