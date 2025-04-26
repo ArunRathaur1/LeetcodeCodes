@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2001-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -1368,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/ArunRathaur1/LeetcodeCodes/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
